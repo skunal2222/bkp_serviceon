@@ -1,0 +1,64 @@
+@media (max-width: 320px) {
+
+}
+
+@media (max-width: 768px) {
+    .title {
+        background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+        font-family: 'Roboto', sans-serif;
+        font-size: 23px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        letter-spacing: 1px;
+        text-align: center;
+        color: #282828;
+        padding-right: 25px;
+        padding-left: 19px;
+        text-transform: uppercase;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: 0.63px;
+    text-align: center;
+    color: #282828;
+}
+
+.condition-policy-content {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+}
+.user-terms-condi {
+    padding-top: 115px;
+}
+}
+
+
+@media (max-width: 543px) {
+
+}
+
+@media (max-width: 1160px) {
+
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+}
+
+@media (max-width: 1330px) {}
+
+
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+}

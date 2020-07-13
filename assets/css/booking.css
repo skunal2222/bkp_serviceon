@@ -1,0 +1,133 @@
+.searchbtn1{
+
+    border-radius: 0px !important;
+    margin-bottom: 3%;
+    margin-left: auto !important;;
+    background-color: transparent;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-weight: 400 !important;;;
+    color: #0c0c0c;
+    padding: 10px 25px !important;;
+    display: inline-block;
+    white-space: nowrap;
+    cursor: pointer;
+    border: 2px solid;
+    border-color: rgb(250, 186, 3);
+}
+#model123{
+ padding:30px 0px;
+    height: 190px;
+    overflow: scroll; 
+    overflow-x: hidden;
+}  
+#brand123{
+	 padding:30px 0px;   
+     height: 190px;     
+    overflow: scroll;
+    overflow-x: hidden;
+}
+section p {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+ section{
+    padding:30px 0px !important;;;
+    min-height:695px;
+ }
+.social-nav{
+    display: inline-block !important;
+}
+.searchbtn {
+    padding: 10px  !important;;
+    margin: 1% 0px  !important;;
+    }
+.frmcntrl {
+	border-top: aliceblue;
+	border-left: antiquewhite;
+	border-right: azure;
+	display: block;
+	width: 100%;
+	border: none;
+	border-bottom: 1px solid #757575 !important;
+	background-color: transparent !important;
+	border-radius: unset !important;
+}
+
+.input-group-addon {
+	padding: .5rem .75rem;
+	margin-bottom: 0;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.25;
+	color: #464a4c;
+	text-align: center;
+	background-color: transparent !important;
+	border: 0px solid rgba(0, 0, 0, .15) !important;
+	border-radius: .25rem;
+}
+
+.btn12 {
+    background-color: #FABA03 !important;
+    font-family: "Roboto", Helvetica, Arial, sans-serif !important;
+    font-weight: 400 !important;
+    color: #151414 !important;
+     text-transform: uppercase;
+    padding: 11px 15px !important;
+    border-radius: 0px !important; 
+    cursor: pointer;
+    height: 45px;
+}
+ 
+a
+{
+cursor: pointer;
+}
+
+.searchbtn{
+
+    width: 200px;
+  
+    margin-left: 0px !important;;
+    background-color: rgb(250, 186, 3)!important;;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-weight: 400 !important;
+    color: #0e0e0e !important;
+    padding: 14px;
+    text-transform: uppercase;
+    border:none;
+    border-radius:0px;
+    display: inline-block;
+    white-space: nowrap;
+    cursor: pointer;
+}
+.searchbtn1 {
+    margin-left: 5px;
+    background-color: transparent;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+ 
+    color: #0c0c0c;
+ 
+    display: inline-block;
+    white-space: nowrap;
+    cursor: pointer;
+    border: 2px solid;
+    border-color:rgb(250, 186, 3);
+    }
+    
+ .mno
+ {
+    margin-bottom: 3%;
+ }
+ .radiobtn
+{
+  width:23px;
+  height:23px;
+}
+@media only screen and (max-width:700px) and (min-width:300px){
+.modal-body .form-group i{
+	font-size:12px !important;
+}
+.modal-body .container{
+	width:100% !important;
+}
+}

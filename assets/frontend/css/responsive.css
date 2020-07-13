@@ -1,0 +1,1567 @@
+@media (max-width: 320px) {
+
+}
+
+@media (max-width: 640px) {
+    .earn-more-points {
+    width: 63%;
+    height: 51px;
+    margin-left: 3.5rem;
+    border-radius: 10px;
+    border: solid 2px #f15a36;
+}
+}
+
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 640px) 
+  and (-webkit-min-device-pixel-ratio: 3){
+
+  }
+
+
+@media (max-width: 768px) {
+	.location-serach-tab .form-control {
+    display: inline-block;
+    width: 19rem;
+    vertical-align: middle;
+    margin-left: 1em;
+    margin-top: 1em;
+    box-shadow: 0px 2px 10px 0 rgba(0, 0, 0, 0.18);
+    border-radius: 0!important;
+}
+
+#side-nav .card{
+    width: 100%!important;
+}
+
+#profile-login .profile-category-section button {
+    border: none!important;
+    outline: none!important;
+    width: 19.5em;
+    font-size: 1rem;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3;
+    letter-spacing: 0.5px;
+    text-align: left;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.ongoing-order-section .card{
+    margin-top: 3em;
+}
+
+.images-logo{
+	width: 6rem!important;
+}   
+
+.logo{
+	padding-left: 0px!important;
+}
+
+#about-section, #offer-section {
+    padding-top: 6rem;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+#about-section .about-section-title {
+    background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+    font-size: 30px;
+    padding-bottom: 1rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #282828;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#about-section .about-section-titles {
+    font-size: 20px;
+    padding-top: 1rem;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.73px;
+    text-align: left;
+    color: #f37441;
+}
+
+#about-section .about-section-content {
+    font-size: 15.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0.59px;
+    text-align: left;
+    color: #282828;
+}
+
+#about-section .jumbotron:not(:first-child){
+    padding: 1rem 2rem;
+    box-shadow: 0px 5px 17.6px 0.4px rgba(0, 0, 0, 0.07);
+    background-color: #ffffff;
+}
+
+#garage-list {
+    background-color: #f9f9f9;
+    padding-top: 125px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+#garage-list .filter-title-icon{
+	text-align: left!important;
+}
+
+.search-garage-btn {
+    position: relative;
+    left: 15em;
+    bottom: 2em;
+}
+
+.input-no-outline {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    width: 17rem;
+    background-color: #f9f9f9;
+}
+
+#History {
+    margin-top: 3rem;
+}
+
+.order-history-section .card {
+    margin-left: 0em;
+    margin-right: 0em;
+    margin-top: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+    padding: 1rem 12px 1rem 12px;
+}
+
+.order-history-section .download-invoice a {
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+     padding-right: 0!important; 
+    line-height: 1.81;
+    letter-spacing: 0.45px;
+    text-align: left;
+    color: #ef5458;
+}
+
+.order-history-section .order-invoice-id {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 19px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: 0.63px;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.order-history-section .ordered-date {
+    padding-left: 46px;
+}
+
+.order-history-section .delivered-address {
+    padding-left: 41px;
+}
+
+.order-history-section .coustomer-name {
+    padding-left: 48px;
+}
+
+.final-charges .total-amount {
+    padding-left: 2rem;
+}
+
+.order-history-section .order-delivery-content {
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.67;
+    letter-spacing: 0.45px;
+    color: #000000;
+}
+
+.invoice-print table td {
+    font-size: 13px;
+    padding-bottom: 1rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.81;
+    letter-spacing: 0.45px;
+    color: #000000;
+}
+
+.invoice-print table th {
+    border-top: 2px solid #ececec;
+    border-bottom: 2px solid #ececec;
+    padding: 10px 2px;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.45px;
+    color: #ef5458;
+}
+
+.final-charges .total-tax-title {
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.0;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #000000;
+}
+
+.total-amount-paid {
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.0;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #000000;
+}
+
+.repeat-invoice{
+    padding-left: 2.5rem;
+    padding-top: 1.5em;
+}
+
+.final-charges .repeat-invoice button {
+    width: 150px;
+    height: 40px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    color: #FFFFFF;
+    border: none!important;
+    outline: none;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+.order-history-section .date-time {
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: 0.45px;
+    color: #ed3237;
+}
+
+.all-total .title-amount-dot {
+    padding-left: 75px;
+}
+
+.texes .title-amount-dot {
+    padding-left: 114px;
+}
+
+.delivery-charges .title-amount-dot {
+    padding-left: 26px;
+}
+
+.applied-offers .title-amount-dot {
+    padding-left: 50px;
+}
+
+.subtotal-amount .title-amount-dot {
+    padding-left: 104px;
+}
+.orders-placed-details {
+    margin-left: 0em;
+    margin-right: 0em;
+    margin-top: -0.5rem;
+    border-radius: 10px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+    padding: 1rem 10px;
+}
+
+.orders-placed-details .placed-order-no {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 19px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1!important;
+    letter-spacing: 0.63px;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.orders-placed-details .placed-bike-details, .placed-order-no {
+    font-size: 13.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.4;
+    letter-spacing: 0.45px;
+    text-align: left;
+    color: #000000;
+}
+
+.orders-placed-details .placed-date-time {
+    color: #ed3237;
+    font-size: 13.5px;
+}
+
+.orders-placed .justify-content-end {
+    -webkit-box-pack: start!important;
+    -ms-flex-pack: start!important;
+    justify-content: flex-start!important;
+}
+
+.login-form{
+    margin-top: 3rem;
+}
+
+.user-login-form {
+    padding-left: 1em;
+    padding-right: 0em;
+    padding-top: 2em;
+    padding-bottom: 3em;
+}
+
+.login-form .form-control{
+    width: 15rem;
+    font-size: 13px;
+}
+
+.profile-login-form .update-button {
+    text-align: center!important;
+    margin-right: 0.7rem!important;
+}
+
+.login-form form label {
+    font-size: 15px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.11;
+    letter-spacing: 0.46px;
+    text-align: left;
+    margin-bottom: 0rem!important;
+    color: #f04c36;
+}
+
+.login-form .form-group-padding{
+    padding-top: 0px!important;
+}
+
+.user-login-form button {
+    width: 125px;
+    height: 35px;
+    font-weight: 500;
+    color: #ffff;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+}
+
+
+
+#accordion .placed-order-no {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.63px;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#accordion .placed-bike-details, .placed-order-no {
+    font-size: 14.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+      line-height: 1.3!important;
+    letter-spacing: 0.45px;
+    text-align: left;
+    color: #000000;
+}
+
+#accordion .placed-date-time {
+    color: #ed3237;
+    font-size: 14.5px;
+}
+
+.order-history-section{
+    margin-bottom: 3rem;
+}
+
+.user-vechicle-section, .user-address, #Points {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.address-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 22.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.71px;
+    padding-top: 1em;
+    padding-left: 10px;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.user-address-section .card-1 {
+    margin-left: 10px;
+    width: 93%;
+    height: 100%;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 22px;
+    padding-bottom: 15px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+}
+
+.user-address-section .exact-address {
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.50;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #494949;
+}
+
+.user-address-section .edit-delete-address a {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #494949, #494949);
+    font-size: 14.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: 0.45px;
+    text-align: left;
+    color: #494949;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.user-address-section .card-2 {
+    margin-left: 10px;
+    width: 93%;
+    height: 100%;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 22px;
+    padding-bottom: 15px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+}
+
+.add-new-address-section .add-new-address-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 20.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.71px;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.add-new-address-section form {
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 3em;
+}
+
+.add-new-address-section form {
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 3em;
+}
+
+.user-entered-location {
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: 0.75px;
+    text-align: left;
+    color: #000000;
+}
+
+.new-address-submit {
+    width: 140px;
+    height: 40px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    line-height: 0.61;
+    margin-left: 3.7rem;
+    letter-spacing: 0.58px;
+    color: #ffffff;
+}
+
+.profile-title {
+    font-size: 22px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.8px;
+    text-align: left;
+    color: #000000;
+}
+
+.profile-title-img .profile-img {
+    width: 29px;
+    padding-bottom: 3px;
+}
+
+.editAddressModal .user-entered-location {
+    font-size: 20px;
+    padding-left: 13px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: 0.75px;
+    /* text-align: left; */
+    color: #000000;
+}
+
+.editAddressModal .modal-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 21.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: 0.71px;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.editAddressModal .form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 12px;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.editAddressModal .address-update-btn {
+    width: 140px;
+    height: 35px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    outline: none;
+    border: none;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    line-height: 0.61;
+    letter-spacing: 0.58px;
+    color: #ffffff;
+}
+
+.user-offer-points table, .point-card-section {
+    padding-top: 2rem!important;
+    padding-bottom: 2rem!important;
+}
+
+.user-point-card .card {
+    width: 95%;
+    height: 10rem;
+    border-radius: 15px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    padding-left: 2rem;
+    padding-top: 25px;
+    margin-left: 6px;
+}
+
+.user-point-card .user-total-points {
+    font-size: 16.5px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: 0.56px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.user-point-card .card-number {
+    opacity: 0.75;
+    font-size: 14.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.41px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.user-point-card .card-holder-name {
+    opacity: 0.75;
+    font-size: 14.5px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.41px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.user-offer-points th {
+    border-top: 1px solid #b7b7b7;
+    border-bottom: 1px solid #b7b7b7;
+    text-align: center;
+    padding: 15px 0px;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.11;
+    letter-spacing: 0.7px;
+    color: #000000;
+}
+
+.user-offer-points td {
+    position: relative;
+    left: 25px;
+    text-align: center;
+    text-align: left;
+    padding-top: 2em;
+}
+
+.user-offer-points tr td:first-child {
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+.deducted-points {
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #ee3b37;
+}
+
+.points-gain {
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #5fad54;
+}
+
+.details-point-table tbody {
+    padding-right: 2rem;
+    padding-left: 1rem;
+}
+
+.details-point-table {
+    padding-bottom: 0rem!important;
+}
+
+.refer-earn-section{
+    padding-top: 3rem;
+}
+
+.refer-earn-section img {
+    width: 19em;
+    height: 21em;
+}
+
+.refer-earn-section .offer-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #000000, #000000);
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.75px;
+    text-align: center;
+    color: #000000;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.refer-code {
+    position: relative;
+    bottom: 3rem;
+}
+
+.share-code-btn {
+    width: 429px;
+    height: 65px;
+    font-size: 13px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.63px;
+    color: #ffffff;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    outline: 0!important;
+    border: none;
+}
+
+.refer-earn-section button {
+    width: 13em;
+    height: 3em;
+    box-shadow: 0px 3px 9px 0 rgba(0, 0, 0, 0.11);
+    background-color: #ffffff;
+    position: relative;
+}
+
+.refer-code small {
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: 0.43px;
+    text-align: left;
+    color: #000000;
+}
+
+.user-refer-code {
+    font-size: 26px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.9px;
+    color: #000000;
+}
+
+.side-nav-titles{
+    font-size: 16px!important;
+}
+
+.ongoing-order-section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 4rem;
+    margin-top: 3rem;
+}
+
+.ongoing-order-track .jumbotron {
+    padding: 11px 2rem;
+    width: 100%;
+    margin-left: 0rem;
+    margin-bottom: 10px!important;
+    background-color: #ffffff;
+    box-shadow: 0px 3px 9px 0 rgba(0, 0, 0, 0.11);
+}
+
+.ongoing-order-track .track-order-btn {
+    width: 100%;
+    height: 45px;
+    padding-top: 10px;
+    margin-left: 0em;
+    margin-top: 0rem;
+    margin-bottom: 2rem;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+}
+
+.earn-more-points {
+    width: 63%;
+    height: 51px;
+    border-radius: 10px;
+    border: solid 2px #f15a36;
+}
+
+.user-vechicle-section .card-1 {
+    margin-left: 10px;
+    width: 93%;
+    height: inherit!important;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 38px;
+    padding-bottom: 10px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 12px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+}
+
+.user-vechicle-section .card-2 {
+    margin-left: 10px;
+    width: 93%;
+    height: inherit!important;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 38px;
+    padding-bottom: 10px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 12px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+}
+
+.user-vechicle-section .saved-vehicles-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 23.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.71px;
+    padding-top: 2rem;
+    padding-left: 10px;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.user-vechicle-section .saved-vehicle-number {
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: 0.65px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.user-vechicle-section .saved-vehicle-details {
+    font-size: 13.5px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.34;
+    letter-spacing: 0.4px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.user-vechicle-section .saved-vehicles-details{
+    padding-bottom: 1rem!important;
+}
+
+.add-new-vehicle-section .saved-vehicle-card {
+    padding-top: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 3em;
+}
+
+.add-vehicle-form .form-row .form-group:nth-of-type(2n) {
+    margin-left: 0rem!important;
+}
+
+.user-addnew-vehicle .form-button {
+    padding-top: 1.5rem;
+    text-align: center;
+}
+
+.add-new-vehicle-section .add-new-vehicle-title {
+    font-size: 23px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 0.7px;
+    text-align: left;
+    color: #000000;
+    padding-bottom: 1rem;
+}
+
+.user-addnew-vehicle .form-group {
+    padding-top: 1rem;
+}
+
+.add-vehicle-form .form-row .form-control {
+    display: block;
+    width: 90%;
+    padding: .375rem .75rem;
+    font-size: 1em;
+    line-height: 0;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0!important;
+    border-top-style: none!important;
+    border-right-style: none!important;
+    border-left-style: none!important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.add-vehicle-form label {
+    font-size: 15.5px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.1;
+    letter-spacing: 0.51px;
+    text-align: left;
+    color: #000000;
+}
+
+}
+
+/*Ipad*/
+@media (min-width: 768px) and (max-width: 1023px) {
+.user-login-form {
+    padding-left: 1em;
+    padding-right: 0em;
+    padding-top: 2em;
+    padding-bottom: 3em;
+    margin-left: 4.5rem;
+}
+
+#profile-login .profile-category-section button {
+    border: none!important;
+    outline: none!important;
+    width: 11rem;
+    font-size: 16px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3;
+    letter-spacing: 0.5px;
+    text-align: left;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.login-form, #History {
+    margin-top: 0rem!important;
+}
+
+.login-form .form-control {
+    width: 13rem;
+    font-size: 13px;
+}
+
+.location-serach-tab .form-control {
+    display: inline-block;
+    width: 17rem;
+    vertical-align: middle;
+    margin-left: 1em;
+    margin-top: 1em;
+    box-shadow: 0px 2px 10px 0 rgba(0, 0, 0, 0.18);
+    border-radius: 0!important;
+}
+
+.order-history-section, .refer-earn-section{
+    margin-left: 5rem;
+}
+
+.refer-earn-section {
+    padding-top: 0rem!important;
+}
+
+.refer-earn-section .refer-earn-card{
+    width: 32.5rem!important;
+}
+
+.user-address {
+    margin-top: 0rem!important;
+}
+
+.saved-address-card{
+    width: 32.5rem;
+}
+
+.details-point-card {
+    width: 32.5rem;
+}
+
+.user-vechicle-section, .user-address, #Points {
+    margin-top: 0rem;
+    margin-bottom: 2rem;
+}
+
+.user-offer-points {
+    margin-left: 5rem!important;
+}
+
+.user-offer-points td {
+    position: relative;
+    left: 10px;
+    text-align: center;
+    text-align: left;
+    padding-top: 2em;
+}
+
+.earn-more-points {
+    width: 96%;
+    height: 51px;
+    border-radius: 10px;
+    border: solid 2px #f15a36;
+}
+
+.ongoing-order-section{
+    display: block;
+    width: 33.3rem;
+    margin-left: 5rem;
+    margin-top: 0rem!important;
+}
+
+.ongoing-order-track .jumbotron {
+    padding: 10px 4px;
+    width: 100%;
+    margin-left: 0rem;
+    margin-bottom: 10px!important;
+    background-color: #ffffff;
+    box-shadow: 0px 3px 9px 0 rgba(0, 0, 0, 0.11);
+}
+
+.ongoing-order-track .order-history-no {
+    font-size: 19px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: 0.71px;
+    text-align: left;
+    margin-bottom: 0!important;
+    color: #595959;
+}
+
+.ongoing-order-track .bike-model {
+    font-size: 14.5px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.37;
+    letter-spacing: 0.44px;
+    padding-right: 0!important;
+    color: rgba(78, 78, 78, 0.71);
+}
+
+.ongoing-order-track .order-date {
+    font-size: 14.5px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.37;
+    letter-spacing: 0.44px;
+    padding-right: 0!important;
+    color: rgba(237, 50, 55, 0.71);
+}
+
+.ongoing-order-track .track-order-btn {
+    width: 100%;
+    height: 38px;
+    padding-top: 7px;
+    margin-left: 0em;
+    margin-top: 11px;
+    margin-bottom: 0rem;
+    font-size: 14px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+}
+
+.order-history-section .order-history-accordin {
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+}
+
+#profile-login{
+    padding-top: 20px;
+}
+
+.user-vechicle-section {
+    width: 34rem;
+    margin-left: 4.5rem;
+}
+
+.user-vechicle-section .saved-vehicles-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 28.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.71px;
+    padding-top: 1.5em;
+    padding-left: 2em;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.user-vechicle-section .card-1 {
+    margin-left: 2.5em;
+    width: 75%;
+    height: inherit!important;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-bottom: 38px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 12px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+}
+
+.user-vechicle-section .card-2 {
+    width: 75%;
+    height: inherit!important;
+    border-radius: 10px;
+    padding-top: 20px;
+    margin-left: 2.5rem;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-bottom: 38px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 12px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+}
+
+.add-new-vehicle-section .saved-vehicle-card {
+    padding-top: 2em;
+    padding-left: 2em;
+    padding-right: 1em;
+    padding-bottom: 6em;
+}
+
+.add-new-vehicle-section .saved-vehicle-card {
+    padding-top: 2em;
+    padding-left: 1.5em;
+    padding-right: 0em;
+    padding-bottom: 6em;
+}
+
+.add-vehicle-form .form-row .form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1.3rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0!important;
+    border-top-style: none!important;
+    border-right-style: none!important;
+    border-left-style: none!important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.add-vehicle-form .search-brand-input .form-control {
+    border-radius: 10px;
+    background-color: #ebebeb;
+    font-size: 25px;
+    width: 95%;
+}
+
+.user-addnew-vehicle .form-button {
+    padding-top: 2.5rem;
+}
+
+.add-vehicle-form label {
+    font-size: 17.5px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.1;
+    letter-spacing: 0.51px;
+    text-align: left;
+    color: #000000;
+}
+
+.user-addnew-vehicle .form-group {
+    padding-top: 0.5rem;
+}
+
+}
+
+/*Ipad Pro*/
+@media (min-width: 1024px) and (max-width: 1366px) {
+    .final-charges .total-amount {
+    padding-left: 4rem;
+}
+
+.saved-address-card {
+    width: 46rem;
+}
+
+.location-serach-tab .form-control {
+    display: inline-block;
+    width: 22rem;
+    vertical-align: middle;
+    margin-left: 8em;
+    box-shadow: 0px 2px 10px 0 rgba(0, 0, 0, 0.18);
+    border-radius: 0!important;
+}
+
+#profile-login .section-info-card{
+    margin-left: 5rem;
+}
+
+.login-form .user-login-form{
+    margin-left: 5rem;
+}
+
+.user-login-form {
+    padding-left: 5em;
+    padding-right: 4em;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.login-form .form-control{
+    width: 15rem;
+}
+
+.order-history-section, .refer-earn-section, .user-offer-points{
+    margin-left: 5rem;
+}
+
+.address-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 24.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.71px;
+    padding-top: 20px;
+    padding-left: 10px;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.user-address-section .card-1 {
+    margin-left: 1rem;
+    width: 21em;
+    height: 211px;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 38px;
+    padding-bottom: 38px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+}
+
+.user-address-section .card-2 {
+    margin-left: 0rem;
+    width: 21em;
+    height: 211px;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 38px;
+    padding-bottom: 38px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+}
+
+.user-point-card .card {
+    width: 20em;
+    height: 182px;
+    border-radius: 15px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    padding-left: 2rem;
+    padding-top: 25px;
+}
+
+.details-point-table tbody {
+    padding-right: 3rem;
+    padding-left: 1rem;
+}
+
+.user-offer-points td {
+    position: relative;
+    left: 19px;
+    text-align: center;
+    text-align: left;
+    padding-top: 2.5em;
+}
+
+.user-address {
+    margin-left: 4.5rem;
+}
+
+.details-point-card{
+    width: 46rem!important;
+}
+
+.earn-more-points {
+    width: 91%;
+    height: 51px;
+    border-radius: 10px;
+    border: solid 2px #f15a36;
+}
+
+.ongoing-order-section{
+    margin-left: 5rem;
+}
+
+.ongoing-order-track .jumbotron {
+    padding: 11px 1rem;
+    width: 100%;
+    margin-left: 10px;
+    background-color: #ffffff;
+    box-shadow: 0px 3px 9px 0 rgba(0, 0, 0, 0.11);
+}
+
+.ongoing-order-track .track-order-btn {
+    width: 9rem;
+    height: 41px;
+    padding-top: 7px;
+    margin-left: 0em;
+    margin-top: 0.5rem;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+}
+
+.ongoing-order-track .order-date {
+    font-size: 14.5px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.37;
+    letter-spacing: 0.44px;
+    padding-right: 0;
+    color: rgba(237, 50, 55, 0.71);
+}
+
+.ongoing-order-track .bike-model {
+    font-size: 14.5px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.37;
+    letter-spacing: 0.44px;
+    padding-right: 0;
+    color: rgba(78, 78, 78, 0.71);
+}
+
+.ongoing-order-track .bike-model-name{
+    padding: 0!important;
+}
+
+.ongoing-order-track .order-history-no {
+    font-size: 20.5px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: 0.71px;
+    text-align: left;
+    margin-bottom: 0!important;
+    color: #595959;
+}
+
+.ongoing-order-section {
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+    margin-bottom: 5rem;
+}
+
+.order-history-section .card {
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    margin-top: 2.5rem;
+    border-radius: 10px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+    padding: 1rem 10px 0px 10px;
+    width: 95%;
+}
+
+.user-vechicle-section{
+    margin-left: 4.5rem;
+}
+
+.user-vechicle-section .card-1 {
+    margin-left: 1.5em;
+    width: 88%;
+    height: inherit!important;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-left: 7px;
+    padding-right: 8px;
+    padding-bottom: 25px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 12px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+}
+
+.user-vechicle-section .card-2 {
+    margin-left: 0.5em;
+    width: 88%;
+    height: inherit!important;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-left: 7px;
+    padding-right: 8px;
+    padding-bottom: 25px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 12px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+}
+
+
+.user-vechicle-section .saved-vehicles-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 28.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.71px;
+    padding-top: 2em;
+    padding-left: 1.3rem;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.add-new-vehicle-section .saved-vehicle-card {
+    padding-top: 2em;
+    padding-left: 5.5em;
+    padding-right: 5em;
+    padding-bottom: 6em;
+}
+
+.add-vehicle-form .form-row .form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0!important;
+    border-top-style: none!important;
+    border-right-style: none!important;
+    border-left-style: none!important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+
+
+@media (max-width: 543px) {
+
+}
+
+@media (max-width: 1160px) {
+
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+}
+
+@media (max-width: 1330px) {}
+
+
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+}
+
+/*Pixel 2*/
+@media screen 
+  and (device-width: 411px) 
+  and (device-height: 731px) 
+  and (-webkit-device-pixel-ratio: 3.5) 
+  and (orientation: landscape) {
+#profile-login .profile-category-section button {
+    border: none!important;
+    outline: none!important;
+    width: 22.5em!important;
+    font-size: 1rem;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3;
+    letter-spacing: 0.5px;
+    text-align: left;
+    background-color: #ffffff;
+    color: #000000;
+}
+}
+

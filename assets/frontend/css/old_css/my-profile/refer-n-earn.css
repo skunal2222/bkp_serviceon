@@ -1,0 +1,39 @@
+.saved-btn {
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    width: 150px;
+    letter-spacing: 0.6px;
+    text-align: center;
+    color: #000000;
+    border: none;
+    border-radius: 28px;
+    margin: 5% 0%;
+    padding: 10px 20px !important;
+    background-color: #cecece;
+    }
+@media only screen and (max-width:1200px) and (min-width:768px){
+  .saved-btn {
+    font-size: 14px;
+    width: 127px;
+    height: 58px;
+	}
+}
+@media only screen and (max-width:767px) and (min-width:200px){
+.saved-btn {
+    font-size: 14px;
+    width: 127px;
+    height: 58px;
+	}
+}
+.basic-info h2{
+  margin-top:0px;
+}  
+.basic-info{
+    padding-bottom: 5%;
+}
+.refer .img{
+	float:none !important;
+}

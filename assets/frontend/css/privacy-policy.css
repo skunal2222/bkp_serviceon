@@ -1,0 +1,96 @@
+.user-terms-condi{
+	padding-top: 150px;
+}
+
+form input{
+	width: 90%;
+}
+
+.title {
+  	background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+	   font-family: 'Roboto', sans-serif;
+  	font-size: 30px;
+  	font-weight: bold;
+  	font-stretch: normal;
+  	font-style: normal;
+  	letter-spacing: 1px;
+  	text-align: left;
+  	color: #282828;
+  	padding-left: 0px;
+  	text-transform: uppercase;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+
+input[type="text"]::-webkit-input-placeholder {
+	padding-left: 1em;
+  	font-size: 15px;
+  	font-weight: normal;
+  	font-stretch: normal;
+  	font-style: normal;
+  	line-height: 5.8;
+  	text-align: left;
+  	color: #282828;
+}
+
+#que-ans-tabs .col:first-of-type button{
+	width: 155px;
+  	height:50px;
+  	box-shadow: 0px 2px 38px 0 rgba(0, 0, 0, 0.08);
+  	background-color: #f47634;
+  	margin-bottom: 150px;
+  	font-size: 12.5px;
+  	font-weight: normal;
+ 	font-stretch: normal;
+  	font-style: normal;
+  	line-height: 1.37;
+  	letter-spacing: 0.51px;
+  	text-align: center;
+  	color: #ffffff;
+  	border: none!important;	
+}
+
+#que-ans button{
+	width: 155px;
+  	height:50px;
+  	box-shadow: 0px 2px 38px 0 rgba(0, 0, 0, 0.08);
+  	margin-bottom: 150px;
+  	font-size: 12.5px;
+  	font-weight: normal;
+ 	font-stretch: normal;
+  	font-style: normal;
+  	line-height: 1.37;
+  	letter-spacing: 0.51px;
+  	text-align: center;
+  	color: #000000
+  	border: none!important;
+  	border: none;
+	background: none;
+}
+
+.condition-policy-content{
+	padding-left: 40px;
+	padding-bottom: 50px;
+
+}
+
+ul {
+    list-style-type: disc;
+    margin: 0!important;
+    padding-left: 1rem;
+}
+
+.sq-dot li{
+  list-style-type: square;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+  	font-size: 17px;
+  	font-weight: normal;
+  	font-stretch: normal;
+  	font-style: normal;
+  	line-height: 1.36;
+  	text-align: left;
+  	color: #282828;
+}

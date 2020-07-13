@@ -1,0 +1,94 @@
+@media (max-width: 320px) {
+
+}
+
+@media (max-width: 768px) {
+.condition-policy-content {
+    padding-left: 15px!important;
+    padding-right: 15px;
+    padding-bottom: 50px;
+}
+
+.user-terms-condi {
+    padding-top: 125px;
+}
+
+ul {
+    list-style-type: disc;
+    margin: 0!important;
+    padding-left: 8px;
+}
+
+#privacy-policy {
+    padding-top: 7.5em;
+}
+
+#privacy-policy .title{
+    background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #282828;
+    padding-left: 0px;
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#privacy-policy p, li{
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+#privacy-policy h5{
+    font-size: 1rem;
+}
+
+#condition-policy p, li{
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+#condition-policy .title{
+        background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #282828;
+    padding-left: 0px;
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;   
+}
+
+#condition-policy h5{
+    font-size: 1rem;
+}
+
+@media (max-width: 543px) {
+
+}
+
+@media (max-width: 1160px) {
+
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+}
+
+@media (max-width: 1330px) {}
+
+
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+}

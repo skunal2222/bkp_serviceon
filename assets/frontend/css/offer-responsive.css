@@ -1,0 +1,461 @@
+galaxy s5*/
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 640px) 
+  and (-webkit-min-device-pixel-ratio: 3){
+.our-offers .card{
+    width: 18rem!important;
+}
+
+.our-offers .col-lg-4{
+    padding-bottom: 2rem;
+}
+
+#offer-section .offer-section-title {
+    background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+    font-size: 25px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #282828;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.modal-content p{
+    font-size: 13.5px;
+}
+
+.our-offers-col{
+    padding-bottom: 0rem!important;
+}
+
+}
+
+/*s5 landscape*/
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 640px) 
+  and (-webkit-min-device-pixel-ratio: 3) 
+  and (orientation: landscape){
+.offers-code-card{
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+
+#offer-section {
+    padding-top: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.offer-content h6 {
+    font-size: 13.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.41px;
+    text-align: left;
+    color: #000000;
+}
+
+.offer-code h6 {
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.45px;
+    color: #000000;
+    padding-top: 9px;
+}
+
+.our-offers-col{
+    padding-bottom: 0rem!important;
+}
+
+}
+
+/*iphone 5 and se*/
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+    .item-detail-card {
+    width: 100%!important;
+    font-size: 14.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.39px;
+    text-align: left;
+    color: #7b7b7b;
+    border: 0px!important;
+}
+
+.our-offers .offer-code {
+    width: 100%;
+    height: 36px;
+    border-radius: 2px;
+    border: solid 1px #ef554c;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.offer-content{
+    padding-bottom: 1rem;
+}
+
+.offer-content h6 {
+    font-size: 15.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.41px;
+    text-align: left;
+    color: #000000;
+}
+
+.offer-code h6 {
+    font-size: 15px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.45px;
+    color: #000000;
+    padding-top: 9px;
+}
+
+.our-offers-col{
+    padding-bottom: 0rem!important;
+}
+
+#about-section, #offer-section {
+    padding-top: 7rem;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#offer-section .offer-section-title {
+    background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+    font-size: 25px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #282828;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+}
+
+/*5/se landscape*/
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) 
+  and (-webkit-min-device-pixel-ratio: 2) 
+  and (orientation: landscape){
+.offers-code-card{
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+
+#offer-section {
+    padding-top: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.offer-content h6 {
+    font-size: 13.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.41px;
+    text-align: left;
+    color: #000000;
+}
+
+.offer-code h6 {
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.45px;
+    color: #000000;
+    padding-top: 9px;
+}
+
+.our-offers-col{
+    padding-bottom: 0rem!important;
+}
+
+}
+
+/*Iphone 6 7 plus*/
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3){
+    .our-offers .card {
+    width: 100%!important;
+}
+}
+
+/*6 7 plus landscape*/
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) 
+  and (orientation: landscape){
+.offers-code-card{
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+
+#offer-section {
+    padding-top: 125px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.offer-content h6 {
+    font-size: 13.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.41px;
+    text-align: left;
+    color: #000000;
+}
+
+.offer-code h6 {
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.45px;
+    color: #000000;
+    padding-top: 9px;
+}
+
+.our-offers-col{
+    padding-bottom: 0rem!important;
+}
+
+#offer-section .offer-section-title {
+    background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+    font-size: 23px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #282828;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+}
+
+
+
+
+/*Ipad*/
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+.item-detail-card {
+    width: 100%!important;
+    font-size: 14.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.39px;
+    text-align: left;
+    color: #7b7b7b;
+    border: 0px!important;
+}
+
+.our-offers .offer-code {
+    width: 100%;
+    height: 36px;
+    border-radius: 2px;
+    border: solid 1px #ef554c;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+#about-section, #offer-section {
+    padding-top: 8rem;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+#offer-section .offer-section-title {
+    background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #282828;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.offer-content h6 {
+    font-size: 14.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.41px;
+    text-align: left;
+    color: #000000;
+}
+
+.offer-code h6 {
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.45px;
+    color: #000000;
+    margin-bottom: 0!important;
+}
+
+.our-offers .offer-code {
+    width: 100%;
+    height: 28px;
+    border-radius: 2px;
+    border: solid 1px #ef554c;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+#offer-section .offer-section-title {
+    background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+    font-size: 27px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #282828;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.modal-dialog {
+    max-width: 500px;
+    margin: -17.25rem auto!important;
+}
+
+}
+
+
+/*ipad pro*/
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+    .item-detail-card {
+        width: 100%!important;
+    font-size: 14.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.39px;
+    text-align: left;
+    color: #7b7b7b;
+    border: 0px!important;
+}
+
+.our-offers .offer-code {
+    width: 100%;
+    height: 36px;
+    border-radius: 2px;
+    border: solid 1px #ef554c;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.modal-dialog {
+    max-width: 500px;
+    margin: -26.25rem auto!important;
+}
+}
+
+/*6 7 8 landscape*/
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape){
+.offers-code-card{
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+
+#offer-section {
+    padding-top: 125px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.offer-content h6 {
+    font-size: 13.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.41px;
+    text-align: left;
+    color: #000000;
+}
+
+.offer-code h6 {
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.45px;
+    color: #000000;
+    padding-top: 9px;
+}
+
+.our-offers-col{
+    padding-bottom: 0rem!important;
+}
+
+#offer-section .offer-section-title {
+    background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+    font-size: 25px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #282828;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+}
+
+

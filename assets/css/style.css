@@ -1,0 +1,408 @@
+@font-face {
+ font-family: 'Raleway', sans-serif !important;;
+    }
+    h1 {
+	font-family: Raleway !important;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+.carousel-control {
+  
+    color: #2f3131;
+    }
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.btn{
+	    margin: 0px 1px;
+}
+.btn:not(.btn-raised){
+	color:white;
+	
+}
+.navbar .navbar-nav > li > a{
+	
+    border-bottom: 3px solid #ffffff;
+}
+.navbar-top{
+	color:black;
+	font-weight:400;
+}
+.navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus {
+    color: grey;
+    border-bottom: 3px solid #ff344b;
+    
+    }
+    .navbar .navbar-nav > li > a:visited{
+    color: grey;
+    }
+    .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+    color: grey;
+    }
+.navbar.navbar-inverse {
+    background-color: white;
+    border-bottom: 2px solid lightgray;
+    box-shadow: 2px 3px 3px silver;
+}
+.navbar .container{
+	
+    width: 95%;
+
+}.navbar.navbar-inverse {
+    background-color: white;
+    }
+h3 {
+	font-family: Raleway !important;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: Raleway !important;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+blockquote {
+	font-family: Raleway !important;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: Raleway !important;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
+}
+  
+  .jumbotron {
+    background: transparent;
+    }
+    .navbar {
+    border-radius: 0px;
+}
+   .navbar-inverse {
+	    background-color: #fff;
+	    border-color: #fff;
+	    border-radius: 0px;
+	    text-transform:uppercase;
+	    display:block;
+	     background-image:none;
+	    
+	}
+	.navbar-inverse .navbar-nav>li>a {
+		color: #9d9d9d;
+	    display: inline-grid;
+    font-size: 8px;
+    letter-spacing: 1px;
+    text-align: -webkit-center;
+	}
+	.nav .form-control{
+	    border-radius: 18px;
+	    
+	}
+	.nav .btn{
+	      padding: 1px 12px;
+	    border-radius: 18px;
+	 }
+	 .navbar-nav>li>a:hover {
+	    color: grey !important;
+	    background-color: transparent;
+	}
+	.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #ff344b;
+    }
+    .navbar-toggle {
+    margin-top: 15px;
+    }
+   
+	.navbar-brand>img {
+    display: block;
+    width: 68px;
+	}
+
+ .navbar-top{
+ background:#dadad8;;
+ padding:8px 30px;
+     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+ }
+
+.input-append img{
+	    width: 13px;
+	
+}
+.input-append input{
+	    margin-left: 10px;
+	    border:none;
+	    
+}
+
+.input-append{
+	background:white;
+	    height:35px;
+	    border-radius: 32px;
+}
+.input-append button{
+	    height: 25px;
+	background:white;
+}
+
+.navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    color: #fff;
+    border-bottom: 3px solid #ff344b;
+    background-color: white;
+    box-shadow: none;
+    background-image: none;
+}
+.navbar{
+	margin-bottom:0px;
+}
+
+@media screen and (min-width: 768px)
+{
+	.navbar .navbar-nav > li > a {
+    color: inherit;
+    padding-top: 25px;
+    padding-bottom: 13px;
+}
+	.navbar-brand>img {
+    display: block;
+    width: 70px;
+}
+	.navbar-brand {
+    padding: 11px 15px !important;
+}
+.navbar-left > li {
+    float: left;
+    width: 168px;
+    text-align: center;
+}
+.jumbotron h1{
+	padding-top: 26%;
+}
+footer h3{
+	    font-family: Raleway !important;
+    font-size: 15px;
+    font-style: normal;
+    text-align: left;
+    text-transform: uppercase;
+    font-variant: normal;
+    font-weight: 600;
+}
+footer ul{
+    padding-top: 10px;
+    padding-left: 0px !important;
+    text-align: left;
+    list-style: none !important;
+}
+
+footer a{
+	    cursor: pointer;
+    text-decoration: none !important;;
+	color:grey !important;
+}
+}
+@media screen and (max-width: 768px)
+{
+	
+	 .navbar-brand {
+    
+    padding: 0px 15px !important;
+   
+	}
+	
+	.navbar-left > li {
+    float: left;
+       width: 138px;
+    text-align: center;
+}
+.jumbotron h1{
+	padding-top: 13%;
+}
+footer h3{
+	    font-family: Raleway !important;
+    font-size: 15px;
+    font-style: normal;
+    text-align: center;
+    text-transform: uppercase;
+    font-variant: normal;
+    font-weight: 600;
+}
+footer ul{
+    padding-top: 10px;
+    padding-left: 0px !important;
+    text-align: center;
+    list-style: none !important;
+}
+
+footer a{
+	color:grey !important;
+}
+	
+}
+.navbar-inverse .navbar-nav > .active > a{
+	    color: grey;
+}
+.navbar-right p{
+    background: #95cd32;
+    color: white !important;
+    border-radius: 50%;
+    /* width: 16px; */
+    width: 28%;
+    font-family: sans-serif !important;
+    position: absolute;
+    height: 19px;
+    left: 43px;
+    padding: 0px;
+    font-size: 11px;
+    top: 19px;
+    padding: 1px 3px 1px;
+}
+.navbar-inverse .navbar-nav > .active > a {
+	    background-image: none;
+	   background-color:white;
+	
+    -webkit-box-shadow: none;
+    box-shadow: none;;
+}
+
+footer{
+	 padding: 5%;
+	 
+    background: #e8e8e8;
+}
+
+footer img{
+	
+    margin-bottom: 10px;
+	width: 34px;
+    margin-left: 7px;
+}
+@media only screen and (max-width: 425px) {
+	.navbar-top{
+	display:none;
+	}
+	.navbar-left > li {
+    float: left;
+       width: 50%;
+    text-align: center;
+}
+}
+@media only screen and (max-width: 766px) {
+	.navbar-top .navbar-right{
+	display:none;
+	}
+}
+@media only screen and (max-width: 768px) /* mobile */
+{
+	.navbar .navbar-nav > li > a {
+    color: inherit;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+		.navbar-brand>img {
+    display: block;
+    width: 47px;
+}
+	.navbar-top .container{
+	width: 100%;
+	}
+	.navbar-top{
+	
+	 padding: 8px 1px;
+	    text-align: center;
+	
+	}
+	
+	.navbar-top .navbar-right{
+	
+    text-align: -webkit-center;
+	}
+	.navbar-top .navbar-left{
+	
+    margin-bottom: 8px;
+	
+	}
+
+	.navbar-nav {
+    margin: 7.5px 6px;
+}
+	.row{
+	    margin-right: 0px;
+    margin-left: 0px;
+	}
+	
+	
+	footer .inline{
+	    padding-top: 15px;
+}
+	.navbar ul{
+		    display:flex;
+	}
+	.input-group {
+    width: 134px;
+    }
+    .nav>li>a>img {
+    padding-top: 5px;
+    max-width: none;
+	}
+	.navbar-form {
+    border-color: #fff !important;
+    }
+    .logo{
+     width: 50px;
+     margin-top: -13px;
+    }
+.input-append input{
+	    margin-left: 10px;
+	    border:none;
+	        width: 87px;
+}
+.section6 .input-append{
+    width: 70%;
+    }
+
+
+}
+
+@media only screen and (min-width: 768px)  /* For desktop: */
+
+{
+	footer .inline{
+	    padding-top: 47px;
+}
+	.navtop{
+		margin-top: 8px;
+	    margin-left: 15px;
+	
+	}
+	.navbar-form .input-group>.form-control {
+		width: 220px;
+		margin: 12px 0pc;
+	}
+
+
+}
+@media only screen and (min-width: 600px) /* For tablets */
+ {
+
+
+
+
+ 	}
+
+ 	

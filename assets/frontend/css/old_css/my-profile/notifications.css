@@ -1,0 +1,30 @@
+.noti-btn{
+	font-size: 19px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.55;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #ec3237;
+  background: transparent;
+  border: none;
+    margin: 20px 0px;
+}
+.detailed-info{
+  color: #8a8a8a !important;
+}
+@media only screen and (max-width:1200px) and (min-width:768px){
+  .noti-btn{
+    font-size: 14px;
+	}
+}
+@media only screen and (max-width:767px) and (min-width:200px){
+.noti-btn{
+    font-size: 14px;
+
+    float: left !important;
+    margin: 5px 0px;
+    padding: 0px;
+}
+}

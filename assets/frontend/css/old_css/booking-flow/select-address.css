@@ -1,0 +1,303 @@
+@charset "UTF-8";
+.terms-banner{
+ background-image: url(../images/common/bg.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+ padding:7%;
+ text-align:center;
+}
+.select-address{
+  display: none;
+  margin: 20px 0px;
+}
+.select-file{
+    cursor: pointer;
+    background: transparent;
+    border: none;
+}
+.select-file img{
+    width: 20px;
+}
+.custom-file-input{
+    display: inline-flex !important;
+}
+.custom-file-input input{
+  background-color: transparent;
+  border: none;
+}
+/*.terms{
+  margin-top:5%;
+}*/
+.selectize-input, .selectize-input input{
+  border: none !important;;
+  outline: none !important;    
+  border: 0px solid transparent !important;
+  padding: 5px 0px !important;
+}
+
+.selectize-input input{
+  width: 100%  !important;
+}
+.focus:focus, .option:focus, .option, .option.selected:focus, .option.selected , .selectize-input input:focus ,.selectize-control.single .selectize-input.input-active, .selectize-control.single .selectize-input.input-active input ,.selectize-control.single .selectize-input, .selectize-control.single .selectize-input input{
+  outline: none !important;   
+  border: 0px solid transparent !important;
+  box-shadow: 0 0 0px transparent !important;
+  border-radius: 0px !important;
+  -moz-box-shadow: 0 0 0px transparent !important;
+  -webkit-box-shadow: 0 0 0px transparent !important;
+}
+.add-address{
+  background-color: transparent;
+  border: none;
+}
+.custom-file-input{
+    display: inline-flex;
+    overflow: hidden;
+    position: relative;
+    }
+.custom-file-input input[type="file"]{
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        filter: alpha(opacity=0);
+        zoom: 1;  /* Fix for IE7 */
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 999;
+    }
+.selectize-dropdown {
+  position: absolute;
+  width: 100%;
+  background-color: #fff;
+  margin-top:-40px !important;
+}
+.selectize-input {
+    min-height: 30px !important;;
+}
+.custom-form .input-group {
+    position: relative;
+    width: 100%;
+    padding: 0px 0px !important;
+}
+.custom-form .form-control{
+     padding: 0px 0px !important; 
+}
+.con{
+    width: 45%;
+    margin: auto;
+}
+.specific-div h3{
+  font-size: 26px;
+  font-weight: 600;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #000000;
+}
+.spl-div .spl-p{
+ font-size: 22px;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.36;
+  letter-spacing: 1.7px;
+  
+  color: #fff;  
+  background-color: #ec3237;
+    padding-bottom: 3%;
+  text-align: center;
+
+}
+
+.spl-div {
+    padding: 5% 15px;
+}
+.custom-container{
+      width: 95%;
+}
+.specific-div{
+    margin: 50px 0px;
+}
+.spl-div{
+    padding: 2% 0%;
+}
+ .spl-div h2{
+ font-size: 42px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  padding: 2% 0px 0%;
+  line-height: 1.5;
+  letter-spacing: 3.9px;
+  margin-bottom: 0px;
+  text-align: center;
+  color: #fff;  
+  background-color: #ec3237;
+ }
+ .contactus{
+    padding: 0% 0% 5%;
+ }
+ .Contact-us-div {
+    padding: 10% 0% 0%;
+    width: 80%;
+    margin:auto;
+}
+ .contact-form{
+
+ }
+ .contact-form {
+      border-radius: 10px;
+      border: 1px solid #f2f2f2;;
+      box-shadow: 0px 1px 7px 0 rgba(152, 152, 152, 0.35);  
+      margin-top: 30px;
+ }
+  .contact-form h3{
+    margin: 0px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;  
+    background-color: #f2f2f2;
+    color: #000;
+    padding: 20px;
+}
+.contact-form p{
+  font-size: 17px;
+}
+.contact-form h4{
+  text-align: center;
+}
+.contact-form .custom-form{
+    width: 85%;
+    margin: 10% auto 5%;
+}
+.apply-cpn{
+  font-size: 17px;
+  text-align: left;
+  padding-left: 1%;
+}
+.custom-form .form-control input[type=radio] {
+    margin: 4px 15px 0px !important;
+}
+.contact-form  .custom-btn1 {
+        margin:5%;
+      }
+@media only screen and (max-width:1200px) and (min-width:768px){
+  .spl-div p {
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 10px;
+  }
+.subscribe-btn {
+    padding: 5px 0px !important;
+    width: 150px !important;;
+    border-radius: 5px;
+    border: 2px solid #28b6f6 !important;
+    font-size: 15px !important;;
+}
+.subscription-div .form-control {
+    background: transparent;
+    border-radius: 0px;
+    padding: 6px 12px 6px 0px;
+ font-size: 15px !important;;
+}
+.subscription {
+    width: 90%;
+    margin: 2% auto;
+}
+.subscription-div {
+    padding: 3% 0%;
+    background-color: #fbfbfb;
+}
+.terms-banner {
+    padding: 10% 0% 5% !important;;
+}
+
+.terms-banner h1 {
+    font-size: 30px !important;;
+}
+.spl-div h2 {
+    font-size: 18px;
+}
+.specific-div h3 {
+    font-size: 17px;
+}
+.specific-div p {
+    font-size: 14px;
+}
+.spl-div h2 {
+    font-size: 25px;
+    }
+    .spl-div {
+    padding: 5% 0%;
+}
+.con{
+    width: 80%;
+    }
+    .Contact-us-div {
+    padding: 10% 0% 0%;
+    width: 100%;
+}
+.contactus h3 {
+    font-size: 20px;
+}
+.Contact-us-div p {
+    font-size: 15px;
+    }
+
+ }
+ .bv-form .help-block {
+    text-align: left;
+    display: block;
+    margin-top: -20px;
+ }
+
+@media only screen and (max-width:767px) and (min-width:200px){
+.spl-div .spl-p {
+    padding:10px 10px 15px;
+    font-size: 13px;
+    font-weight: 400;
+  }
+  .spl-div .spl-p br{
+    display: none;
+  }
+.terms-banner h1 {
+    font-size: 22px !important;;
+}
+.terms-banner {
+    padding: 15% 0% 5% !important;;
+}
+.spl-div h2 {
+   font-size: 16px !important;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 8%;
+}
+.specific-div h3 {
+    font-size: 15px !important;;;
+}
+.specific-div p {
+    font-size: 13px !important;;;
+}
+.con{
+    width: 100%;
+    }
+    .Contact-us-div {
+    padding: 10% 0% 0%;
+    width: 100%;
+}
+.contact-form .custom-form {
+    width: 90%;
+    }
+.contactus h3 {
+    font-size: 16px;
+}
+.Contact-us-div p {
+    font-size: 14px  !important;;;;
+    font-weight: 400 !important;;;
+    margin-bottom: 30px !important;;;
+    }
+
+  }

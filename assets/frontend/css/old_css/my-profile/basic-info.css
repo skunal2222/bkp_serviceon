@@ -1,0 +1,89 @@
+.saved-btn {
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    width: 150px;
+    letter-spacing: 0.6px;
+    text-align: center;
+    
+    border: none;
+    border-radius: 28px;
+    margin: 5% 0%;
+    padding: 7px 20px !important;
+   color: #fff !important;;;
+   background-color: #ec3237;
+}
+.spl-icon{
+    background: transparent;
+    border: none;
+    border-radius: 0px;
+}
+.input-group-addon{
+    color: #ec3237;
+}
+@media only screen and (max-width:1200px) and (min-width:768px){
+  .saved-btn {
+    font-size: 14px;
+    width: 127px;
+	}
+}
+@media only screen and (max-width:767px) and (min-width:200px){
+	.account-modal label {
+    margin: 28px 0px 0px;
+	}
+.saved-btn {
+    font-size: 14px;
+    width: 127px;
+	}
+    .bor-none .radio-inline {
+    margin-left: 15px !important;
+}
+.savedaddress-btn{
+		float:none !important; 
+		padding: 0px 0px !important;;
+	}
+}
+.account-modal input:focus{
+
+    border-bottom: 1px solid #ccc !important;
+box-shadow: 0 0 0px transparent !important;
+-moz-box-shadow: 0 0 0px transparent !important;
+-webkit-box-shadow: 0 0 0px transparent !important;
+
+}
+.account-modal .form-control{
+    padding:0px;
+}
+.bor-none{
+    border: none !important;
+}
+.bor-none input[type=radio] {
+    margin: 8px -19px 0;
+    }
+ .bor-none .radio-inline{
+    margin-left: 40px;
+    color: #000;
+}  
+.savedaddress{
+	display:inline-flex;
+	width:100%;
+} 
+.savedaddress h2{
+    width: 100%;
+    }
+.savedaddress-btn{
+	float:right;
+}
+.savedaddress-btn {
+    padding: 0px 0px !important;;
+}
+.spl-type{
+   margin: 0px !important;
+
+}
+.radio-inline input[type=radio]{
+
+    margin-top: 2px !important;
+}

@@ -1,0 +1,146 @@
+@media (max-width: 320px) {}
+
+@media (max-width: 768px) {
+
+#contact-us-section {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 6rem;
+}
+
+#contact-us-section .client-address-card {
+    padding-top: 2.5rem;
+    padding-left: 1rem;
+    padding-bottom: 3rem;
+}
+
+.feedback-form .card {
+    padding-left: 1rem;
+    padding-right: 0rem;
+    padding-top: 1.5rem;
+    padding-bottom: 3rem;
+    margin-bottom: 3rem;
+}
+
+#contact-us-section .feedback-form textarea{
+  width: 95%;
+}
+
+#map {
+    height: 300px;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+#contact-us-section .contact-section-title {
+    background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: left;
+    padding-bottom: 1rem;
+    color: #282828;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.client-address-card .client-address-title {
+    font-size: 23px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.91;
+    letter-spacing: 0.88px;
+    text-align: left;
+    color: #ee3837;
+}
+
+.client-address-card h6 {
+    font-size: 15.5px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: 0.68px;
+    text-align: left;
+    color: #282828;
+}
+
+#contact-us-section .feedback-form {
+    padding-top: 3rem;
+}
+
+#contact-us-section .feedback-form label {
+    font-size: 16.5px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.11;
+    letter-spacing: 0.46px;
+    text-align: left;
+    color: #f04d36;
+}
+
+#contact-us-section .feedback-form input {
+    width: 90%;
+    font-size: 16px;
+}
+
+.send-usereq-btn {
+    width: 95%;
+    height: 43px;
+    color: #ffffff;
+    font-size: 17px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.61;
+    letter-spacing: 0.58px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+}
+
+}
+
+
+/*Ipad*/
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1){
+
+}
+
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+#contact-us-section {
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 10rem;
+}
+}
+
+
+
+
+
+
+@media (max-width: 543px) {}
+
+@media (max-width: 1160px) {}
+
+@media (min-width: 1025px) and (max-width: 1280px) {}
+
+@media (max-width: 1330px) {}
+
+@media (max-width: 543px) {}
+
+@media (max-width: 1160px) {}
+
+@media (min-width: 1025px) and (max-width: 1280px) {}
+
+@media (max-width: 1330px) {}
+

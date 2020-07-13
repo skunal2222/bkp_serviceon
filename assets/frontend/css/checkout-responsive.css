@@ -1,0 +1,244 @@
+@media (max-width: 320px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+/*iphone 5/SE*/
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+
+}
+
+
+/*Samsung Galaxy S5*/
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 640px) 
+  and (-webkit-min-device-pixel-ratio: 3){
+
+.searched-garages-section{
+    padding-left: 0px!important;
+}
+
+.searched-garages-section .item-detail-card{
+    width: 100%!important;
+}
+
+#garage-list {
+    background-color: #f9f9f9;
+    padding-top: 95px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.item-detail-card {
+    font-size: 14.5px;
+    height: 15rem;
+    margin-top: 1.5rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.39px;
+    text-align: left;
+    color: #7b7b7b;
+    border: 0px!important;
+}
+
+.filter-section .filter-sections-card{
+    width: 100%!important;
+}
+
+.garage-list-info {
+    margin-bottom: 1rem!important;
+}
+
+.applied-filter input {
+    height: 39px;
+    border-radius: 19.5px;
+    display: inline-block;
+    margin-left: 0px;
+    vertical-align: middle;
+    background-image: linear-gradient(to top, #ed3237, #f68832);
+}
+
+.search-garage-input{
+    justify-content: flex-start!important;
+}
+
+.search-garage-input .form-group{
+    width: 90%;
+}
+
+.applied-filter .form-group {
+    margin-right: 0rem!important;
+}
+
+}
+
+
+
+
+
+/*ipad*/
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1){
+#garage-list .card-head {
+    padding-left: 10px;
+    height: 45px;
+    padding-top: 11px;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.card-head h5 {
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #000000;
+}
+
+.mid-dot {
+    padding: 0px 4px;
+    position: relative;
+    bottom: 3px;
+    font-size: 18px;
+}
+
+.garage-rating-distance{
+    padding-top: 8px;
+    padding-bottom: 8px;   
+}
+
+.filter-section .card-body{
+    padding: 1.25rem 7px;
+}
+
+#garage-list {
+    background-color: #f9f9f9;
+    padding-top: 125px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.applied-filter input {
+    height: 39px;
+    border-radius: 19.5px;
+    display: inline-block;
+    margin-left: 4rem;
+    width: 100%!important;
+    vertical-align: middle;
+    background-image: linear-gradient(to top, #ed3237, #f68832);
+}
+
+.search-garage-input .form-group {
+    width: 80%;
+    padding-right: 2rem;
+}   
+
+}
+
+/* iPhone 6, 7, & 8 Plus in portrait & landscape */
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) {
+    .garage-image{
+        width: 100%;
+    }
+
+    #garage-list {
+    background-color: #f9f9f9;
+    padding-top: 95px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+}
+
+/*Ipad pro*/
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+#garage-list {
+    background-color: #f9f9f9;
+    padding-top: 125px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.mid-dot {
+    padding: 0px 1px;
+    position: relative;
+    bottom: 3px;
+    font-size: 18px;
+}
+
+.item-info-head {
+    font-size: 18px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.63px;
+    text-align: left;
+    color: #000000;
+}
+
+.item-info-content {
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: left;
+    color: #474747;
+}
+
+.garage-rating-distance{
+    padding-top: 8px;
+    padding-bottom: 8px;   
+}
+
+.applied-filter input {
+    height: 39px;
+    border-radius: 19.5px;
+    display: inline-block;
+    margin-left: 6rem;
+    vertical-align: middle;
+    background-image: linear-gradient(to top, #ed3237, #f68832);
+}
+
+}
+
+
+@media (max-width: 543px) {
+
+}
+
+@media (max-width: 1160px) {
+
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+}
+
+@media (max-width: 1330px) {}
+
+
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+}

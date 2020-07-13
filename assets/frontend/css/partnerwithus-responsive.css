@@ -1,0 +1,525 @@
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 640px) 
+  and (-webkit-min-device-pixel-ratio: 3){
+
+.patner-withus-title {
+    font-size: 32px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.1px;
+    color: #000000;
+}
+
+.partnerwithus-main-header {
+    padding-top: 3rem;
+    text-align: center!important;
+    padding-bottom: 3rem;
+}
+
+#patner-withus-section {
+    padding-top: 2rem;
+}
+
+.partnerwithus-faq-title {
+    font-size: 15px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+    padding-top: 0.5rem;
+}
+
+#partner-with-us{
+	margin-top: 5rem!important;
+}
+
+.ridewithus-lnfo {
+    padding: 4rem 1.5rem;
+}
+
+.register-section-card {
+    width: 97%;
+    margin: 4rem 0px 6rem 0px;
+}
+
+.partner-with-us-section .card-body {
+    padding: 2rem 1rem;
+}
+
+.register-section-card {
+    width: 97%;
+    margin: 0rem 0px 6rem 0px;
+}
+
+.patner-withus-faq {
+    padding: 0px 2rem;
+}
+
+.benefits-section{
+      padding-top: 0rem!important;
+}
+
+.partner-lnfo-content {
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.6;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+}
+
+
+/*s5 landscape*/
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 640px) 
+  and (-webkit-min-device-pixel-ratio: 3) 
+  and (orientation: landscape){
+
+#partner-with-us {
+    margin-top: 7rem!important;
+}
+
+ .partner-withus-content {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 0px 0px!important;
+}
+
+.patner-withus-faq {
+    padding: 0px 3.5rem!important;
+}
+
+.register-section-card {
+    width: 70%!important;
+    margin: 2rem 0px 4rem 0px;
+}
+
+.patner-withus-subtitle {
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.27;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+.patner-withus-title {
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.1px;
+    color: #000000;
+}
+
+}
+
+
+/*ipad*/
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+  	.patner-withus-title {
+    font-size: 27px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.1px;
+    color: #000000;
+}
+
+.patner-withus-subtitle {
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.27;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+.register-section-card {
+    width: 75%;
+    margin: 4rem 0px 6rem 0px;
+}
+}
+
+
+  /*Iphone 6 7*/
+
+  @media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+  	.patner-withus-title {
+    font-size: 32px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.1px;
+    color: #000000;
+}
+
+.partnerwithus-main-header {
+    padding-top: 3rem;
+    text-align: center!important;
+    padding-bottom: 3rem;
+}
+.partnerwithus-img{
+	padding-top: 3rem;
+}
+
+#partner-with-us{
+	margin-top: 8rem!important;
+}
+
+.ridewithus-lnfo {
+    padding: 4rem 1.5rem;
+}
+
+.register-section-card {
+    width: 97%;
+    margin: 4rem 0px 6rem 0px;
+}
+
+.partner-with-us-section .card-body {
+    padding: 2rem 1rem;
+}
+
+.register-section-card {
+    width: 97%;
+    margin: 0rem 0px 6rem 0px;
+}
+
+.patner-withus-faq {
+    padding: 0px 1.5rem;
+}
+
+.benefits-section{
+      padding-top: 0rem!important;
+}
+
+.partnerwithus-faq-title {
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+    padding-top: 0.5rem;
+}
+
+.partner-lnfo-content {
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.6;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+.ridewithus-faq-content {
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+.partnerwithus-img {
+    padding-top: 0rem;
+}
+
+}
+
+/*Iphone 5/se*/
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+.patner-withus-title {
+    font-size: 32px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.1px;
+    color: #000000;
+}
+
+.partnerwithus-main-header {
+    padding-top: 3rem;
+    text-align: center!important;
+    padding-bottom: 3rem;
+}
+
+#patner-withus-section {
+    padding-top: 2rem;
+}
+
+.partnerwithus-faq-title {
+    font-size: 15px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+    padding-top: 0.5rem;
+}
+
+#partner-with-us{
+  margin-top: 5rem!important;
+}
+
+.ridewithus-lnfo {
+    padding: 4rem 1.5rem;
+}
+
+.register-section-card {
+    width: 97%;
+    margin: 4rem 0px 6rem 0px;
+}
+
+.partner-with-us-section .card-body {
+    padding: 2rem 1rem;
+}
+
+.register-section-card {
+    width: 97%;
+    margin: 0rem 0px 6rem 0px;
+}
+
+.patner-withus-faq {
+    padding: 0px 2rem;
+}
+
+.benefits-section{
+      padding-top: 0rem!important;
+}
+
+.partner-lnfo-content {
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.6;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+.ridewithus-faq-content {
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}  
+}
+
+/*5/se landscape*/
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) 
+  and (-webkit-min-device-pixel-ratio: 2) 
+  and (orientation: landscape){
+#partner-with-us {
+    margin-top: 7rem!important;
+}
+
+ .partner-withus-content {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 0px 0px!important;
+}
+
+.patner-withus-faq {
+    padding: 0px 3.5rem!important;
+}
+
+.register-section-card {
+    width: 70%!important;
+    margin: 2rem 0px 4rem 0px;
+}
+
+.patner-withus-subtitle {
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.27;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+.patner-withus-title {
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.1px;
+    color: #000000;
+}
+}
+
+/*iphone 6 7 8 landscape*/
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) 
+  and (orientation: landscape){
+#partner-with-us {
+    margin-top: 7rem!important;
+}
+
+ .partner-withus-content {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 0px 0px!important;
+}
+
+.patner-withus-faq {
+    padding: 0px 3.5rem!important;
+}
+
+.register-section-card {
+    width: 70%!important;
+    margin: 2rem 0px 4rem 0px;
+}
+
+.patner-withus-subtitle {
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.27;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+.patner-withus-title {
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.1px;
+    color: #000000;
+}    
+}
+
+/*6 7 8 plus*/
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) 
+  and (orientation: landscape){
+
+#partner-with-us {
+    margin-top: 7rem!important;
+}
+
+ .partner-withus-content {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 0px 0px!important;
+}
+
+.patner-withus-faq {
+    padding: 0px 3.5rem!important;
+}
+
+.register-section-card {
+    width: 70%!important;
+    margin: 2rem 0px 4rem 0px;
+}
+
+.patner-withus-subtitle {
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.27;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+.patner-withus-title {
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.1px;
+    color: #000000;
+}  
+
+.ridewithus-faq-content {
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+.partnerwithus-faq-title {
+    font-size: 17px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+    padding-top: 1.5rem;
+}
+
+}
+

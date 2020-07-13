@@ -1,0 +1,107 @@
+@charset "UTF-8";
+.jumbotron{
+  padding: 10% 20%;
+  background-image: url(../images/new/landingpageheading.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.about-us p{
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 0.1px;
+  text-align: left;
+  color: #000000;
+}
+.about-us h2{
+  font-size: 45px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  margin: 0px;
+  letter-spacing: 3.9px;
+  text-align: left;
+  color: #000000;
+}
+.about-us h3{
+   font-size: 25px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: normal;
+}
+.Speciality{
+  padding: 4% 2% 4%;
+}
+
+.promise{
+    background-color: #f2f2f2;
+    margin:5% 0%;
+}
+.promise-box{
+    background-color: #eaeaea;    
+    margin: 5% 0%;
+    padding: 5%;
+    border-radius: 5px;
+}
+.Speciality p{
+  width: 90%;
+}
+.Speciality img{
+  width: 568px;
+  height: 401px;
+    border-radius: 5px;
+  margin-top: -10%;
+}
+.offer{
+  margin-bottom: 5%;
+}
+
+@media only screen and (max-width:1200px) and (min-width:768px){
+  .about-us p {
+    font-size: 16px;
+  }
+  .about-us h2 {
+    font-size: 22px;
+  }
+  .about-us h3 {
+    font-size: 19px;
+  }
+  .Speciality p{
+  width: 100%;
+  }
+  .Speciality img {
+    width: 100%;
+    height: auto;
+    margin-top: 5%;
+  }
+}
+@media only screen and (max-width:767px) and (min-width:100px){
+  .about-us p {
+    font-size: 14px;
+    text-align: center;margin-top: 5%;
+  }
+  .about-us h2 {
+    text-align: center;
+    font-size: 22px;
+  }
+  .about-us h3 {
+    font-size: 19px;    
+    margin: 10px;
+    text-align: center;
+  }
+  .Speciality p{
+  width: 100%;
+  text-align: center;
+  }
+  .Speciality img {
+       width: 65%;
+    height: auto;
+    margin-top: 5%;
+  } 
+  .Speciality{
+  text-align: center;
+  }
+}

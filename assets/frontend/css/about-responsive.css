@@ -1,0 +1,545 @@
+/*Galaxy s5*/
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 640px) 
+  and (-webkit-min-device-pixel-ratio: 3){
+  	#about-section {
+    padding-top: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#about-section .about-section-title {
+    background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+    font-size: 32px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #282828;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 0.5rem;
+}
+
+#about-section .about-section-titles {
+    font-size: 23px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.73px;
+    text-align: left;
+    color: #f37441;
+    padding-top: 1rem;
+}
+
+#about-section .jumbotron {
+    padding: 2rem 1.5rem;
+    box-shadow: 0px 5px 17.6px 0.4px rgba(0, 0, 0, 0.07);
+    background-color: #ffffff;
+}
+
+#about-section .about-section-content {
+    font-size: 15.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0.59px;
+    text-align: left;
+    color: #282828;
+}
+
+.goal-vision-jumbotron {
+    padding: 0.5rem 1.5rem!important;
+    box-shadow: 0px 5px 17.6px 0.4px rgba(0, 0, 0, 0.07);
+    background-color: #ffffff;
+}
+
+.team-members .team-member-name {
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    color: #373737;
+    padding-top: 15px;
+}
+
+}
+
+/*s5 landscape*/
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 640px) 
+  and (-webkit-min-device-pixel-ratio: 3) 
+  and (orientation: landscape){
+
+.our-service-img {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 45%;
+    max-width: 45%;
+}
+
+.our-service-content {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 75%;
+    flex: 0 0 55%;
+    max-width: 55%;
+}
+
+#about-section .about-section-titles {
+    font-size: 23px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.73px;
+    text-align: left;
+    color: #f37441;
+     padding-top: 0rem; 
+}
+
+.our-team-col{
+  -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+}
+
+/*Iphone 6/7/8*/
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+    #about-section {
+    padding-top: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#about-section .about-section-title {
+    background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+    font-size: 32px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #282828;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 0.5rem;
+}
+
+#about-section .about-section-titles {
+    font-size: 23px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.73px;
+    text-align: left;
+    color: #f37441;
+    padding-top: 1rem;
+}
+
+#about-section .jumbotron {
+    padding: 2rem 1.5rem;
+    box-shadow: 0px 5px 17.6px 0.4px rgba(0, 0, 0, 0.07);
+    background-color: #ffffff;
+}
+
+#about-section .about-section-content {
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0.59px;
+    text-align: left;
+    color: #282828;
+}
+
+.goal-vision-jumbotron {
+    padding: 0.5rem 1.5rem!important;
+    box-shadow: 0px 5px 17.6px 0.4px rgba(0, 0, 0, 0.07);
+    background-color: #ffffff;
+}
+}
+
+/*6/7/8* landscape*/
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) 
+  and (orientation: landscape){
+.our-service-img {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 45%;
+    max-width: 45%;
+}
+
+.our-service-content {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 75%;
+    flex: 0 0 55%;
+    max-width: 55%;
+}
+
+#about-section .about-section-titles {
+    font-size: 23px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.73px;
+    text-align: left;
+    color: #f37441;
+     padding-top: 0rem; 
+}
+
+.our-team-col{
+  -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+
+.team-members .team-member-name {
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    color: #373737;
+    padding-top: 15px;
+}
+
+}
+
+
+/*6/7/8 plus*/
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3){
+#about-section .about-section-content {
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0.59px;
+    text-align: left;
+    color: #282828;
+}
+}
+
+/*6/7/8 plus landscape*/
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) 
+  and (orientation: landscape){
+
+.our-service-img {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 45%;
+    max-width: 45%;
+}
+
+.our-service-content {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 75%;
+    flex: 0 0 55%;
+    max-width: 55%;
+}
+
+#about-section .about-section-titles {
+    font-size: 23px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.73px;
+    text-align: left;
+    color: #f37441;
+     padding-top: 0rem; 
+}
+
+.our-team-col{
+  -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+
+#about-section .about-section-content {
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0.59px;
+    text-align: left;
+    color: #282828;
+}
+
+.team-members .team-member-name {
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    color: #373737;
+    padding-top: 15px;
+}
+
+}
+
+/*Iphone X*/
+@media only screen 
+    and (min-device-width: 375px) 
+    and (min-device-height: 812px) 
+    and (-webkit-device-pixel-ratio: 3)
+    and (orientation: portrait) { 
+#about-section .about-section-content {
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0.59px;
+    text-align: left;
+    color: #282828;
+}
+}
+
+/*Iphone x landscape*/
+@media only screen 
+    and (min-device-width: 812px) 
+    and (min-device-height: 320px) 
+    and (-webkit-device-pixel-ratio: 3)
+    and (orientation: landscape){
+.our-service-img {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 45%;
+    max-width: 45%;
+}
+
+.our-service-content {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 75%;
+    flex: 0 0 55%;
+    max-width: 55%;
+}
+
+#about-section .about-section-titles {
+    font-size: 23px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.73px;
+    text-align: left;
+    color: #f37441;
+     padding-top: 0rem; 
+}
+
+.our-team-col{
+  -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+
+#about-section .about-section-content {
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0.59px;
+    text-align: left;
+    color: #282828;
+}
+
+.team-members .team-member-name {
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    color: #373737;
+    padding-top: 15px;
+}
+
+#about-section .about-section-content {
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0.59px;
+    text-align: left;
+    color: #282828;
+}
+
+}
+
+/*Ipad*/
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+.our-service-img {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 45%;
+    max-width: 45%;
+}
+
+.our-service-content {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 75%;
+    flex: 0 0 55%;
+    max-width: 55%;
+}
+
+#about-section .about-section-titles {
+    font-size: 23px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.73px;
+    text-align: left;
+    color: #f37441;
+     padding-top: 0rem; 
+}
+
+.our-team-col{
+  -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+
+#about-section .about-section-content {
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0.59px;
+    text-align: left;
+    color: #282828;
+}
+
+.team-members .team-member-name {
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    color: #373737;
+    padding-top: 15px;
+}
+
+#about-section .about-section-content {
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0.59px;
+    text-align: left;
+    color: #282828;
+}
+}
+
+/*Iphone 5/se*/
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) 
+  and (-webkit-min-device-pixel-ratio: 2){ 
+  #about-section {
+    padding-top: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#about-section .about-section-title {
+    background-image: linear-gradient(to top, #ed3237, #f47634), linear-gradient(to bottom, #282828, #282828);
+    font-size: 32px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #282828;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 0.5rem;
+}
+
+#about-section .about-section-titles {
+    font-size: 23px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.73px;
+    text-align: left;
+    color: #f37441;
+    padding-top: 1rem;
+}
+
+#about-section .jumbotron {
+    padding: 2rem 1.5rem;
+    box-shadow: 0px 5px 17.6px 0.4px rgba(0, 0, 0, 0.07);
+    background-color: #ffffff;
+}
+
+#about-section .about-section-content {
+    font-size: 15.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0.59px;
+    text-align: left;
+    color: #282828;
+}
+
+.goal-vision-jumbotron {
+    padding: 0.5rem 1.5rem!important;
+    box-shadow: 0px 5px 17.6px 0.4px rgba(0, 0, 0, 0.07);
+    background-color: #ffffff;
+}
+
+.team-members .team-member-name {
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    color: #373737;
+    padding-top: 15px;
+}
+}
+
+/*5/se landscape*/
+#about-section .about-section-titles {
+    font-size: 23px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.73px;
+    text-align: left;
+    color: #f37441;
+     padding-top: 0rem; 
+}

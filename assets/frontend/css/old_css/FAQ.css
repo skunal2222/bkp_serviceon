@@ -1,0 +1,230 @@
+@charset "UTF-8";
+.terms-banner{
+ background-image: url(../images/common/bg.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+ padding:7%;
+ text-align:center;
+}
+.panel-title img{
+    width: 20px;
+}
+.subscription{
+	display:none;
+}
+/*.terms{
+  margin-top:5%;
+}*/
+.panel-body {
+    padding: 15px 0px;
+}
+.specific-div h3{
+  font-size: 19px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #000000;
+}
+.specific-div p{
+  
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #000000;
+}
+
+.spl-div {
+    padding: 5% 15px;
+}
+.custom-container{
+      width: 95%;
+}
+.specific-div{
+    margin: 40px 0px;
+}
+.spl-div{
+    padding: 2% 0%;
+}
+ .spl-div h2{
+ font-size: 45px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 4;
+  letter-spacing: 3.9px;
+  text-align: center;
+  color: #fff;     
+   background-image: url(../images/new/partnerus.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+@media only screen and (max-width:1200px) and (min-width:768px){
+.subscribe-btn {
+    padding: 5px 0px !important;
+    width: 150px !important;;
+    border-radius: 5px;
+    border: 2px solid #28b6f6 !important;
+    font-size: 15px !important;;
+}
+.subscription-div .form-control {
+    background: transparent;
+    border-radius: 0px;
+    padding: 6px 12px 6px 0px;
+ font-size: 15px !important;;
+}
+.subscription {
+    width: 90%;
+    margin: 2% auto;
+}
+.subscription-div {
+    padding: 3% 0%;
+    background-color: #fbfbfb;
+}
+.terms-banner {
+    padding: 10% 0% 5% !important;;
+}
+
+.terms-banner h1 {
+    font-size: 30px !important;;
+}
+.spl-div h2 {
+    font-size: 18px;
+}
+.specific-div h3 {
+    font-size: 17px;
+}
+.specific-div p {
+    font-size: 14px;
+}
+.spl-div h2 {
+    font-size: 25px;
+    }
+    .spl-div {
+    padding: 5% 0%;
+}
+.panel-title {
+    font-size: 18px !important;;;
+    line-height: 1.5 !important;;;;
+    }
+    .panel-body {
+    font-size: 16px !important;;;
+    font-weight: 400 !important;
+  }
+ }
+
+@media only screen and (max-width:767px) and (min-width:200px){
+  .panel-title img{
+    width: 15px;
+}
+  .questions-list {
+    width: 100% !important;;;;
+  }
+.panel-title {
+    font-size: 14px !important;;;
+    line-height: 1.5 !important;;;;
+    }
+    .panel-body {
+    font-size: 12px !important;;;
+    font-weight: 400 !important;
+  }
+.terms-banner h1 {
+    font-size: 22px !important;;
+}
+.terms-banner {
+    padding: 15% 0% 5% !important;;
+}
+.spl-div h2 {
+   font-size: 16px !important;
+    text-align: center;
+    margin-top: 8%;
+}
+.specific-div h3 {
+    font-size: 15px !important;;;
+}
+.specific-div p {
+    font-size: 13px !important;;;
+}
+.questions-list .panel-default>.panel-heading {
+    padding: 10px 0px !important;;;
+    }
+  }
+
+.questions-list {
+  border-radius: 5px;
+  background-color: #ffffff;
+/*   box-shadow: 0px 3px 7.4px 0.6px rgba(69, 68, 68, 0.1); */
+}
+.questions-list .panel-default>.panel-heading {
+    color: #333;
+/*    border-left: 4px solid #40c6eb !important;*/
+    border-radius: 0px;
+    background-color: #ffffff;
+    padding: 20px 0px;
+    /* margin-bottom: 17px; */
+    background-color:transparent;
+    border-color: transparent;
+}
+.panel{
+      box-shadow: 0 0px 0px rgba(0,0,0,.05);
+}
+.panel-group .panel {
+    /* margin-bottom: 0; */
+    border-radius: 0px;
+    }
+.questions-list .panel-default>.panel-heading+.panel-collapse>.panel-body {
+    
+    border-top-color: transparent;
+    background: #fff;
+}
+.panel-body{
+  font-size: 20px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: 1.6px;
+  text-align: left;
+  color: #000000;
+}
+.panel-title{
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: 1.6px;
+  text-align: left;
+  color: #000000;
+}
+.panel-title a:hover{
+	color:#000000;
+}
+.panel-title a:focus{
+	color:#000000;
+}
+.numbered-list{
+	padding: 5px 8px;
+    border: 2px solid #4ab7f6;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+.questions-list .panel-group .panel {
+    border-bottom: 1px solid #ec3237;
+}
+.questions-list .panel-default {
+    border-color: transparent;
+}
+.questions-list{
+  width: 90%;
+  margin: auto;
+}
+.panel-title a{
+  color: #000;
+}

@@ -1,0 +1,72 @@
+@media (max-width: 320px) {
+
+}
+
+@media (max-width: 768px) {
+ #map {
+    height: 100%;
+    width: 100%;
+    padding-top: 450px;
+}
+
+.track-order-title {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.75px;
+    text-align: center;
+    color: #4f4f4f;
+}
+
+.track-order-details {
+    font-size: 13px;
+    padding-top: 5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.39;
+    letter-spacing: 0.45px;
+    text-align: center;
+    color: #4f4f4f;
+}
+
+.order-help {
+    background-image: linear-gradient(to top, #ed3237, #ff4b2b), linear-gradient(to bottom, #4f4f4f, #4f4f4f);
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.39;
+    letter-spacing: 0.45px;
+    text-align: center!important;
+    color: #4f4f4f;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+}
+
+
+@media (max-width: 543px) {
+
+}
+
+@media (max-width: 1160px) {
+
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+}
+
+@media (max-width: 1330px) {}
+
+
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+}

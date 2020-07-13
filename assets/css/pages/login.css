@@ -1,0 +1,158 @@
+@CHARSET "UTF-8";
+body{
+	background:white;
+}
+
+@media screen and (min-width: 768px){
+	 h1{
+    margin-top: 70px;
+	 
+	 }
+	p {
+    font-family: Raleway;
+    font-size: 16px;
+    }
+	.text-center h2{
+	
+    padding-left: 20%;
+}
+	.text-center button{
+	    width: 60% !important;
+	        margin: 0% 0% 5%;
+}
+	
+.login h1{
+	text-transform: uppercase;
+    font-size: 23px;
+    /* text-decoration: underline; */
+    line-height: 52px;
+    border-bottom: 2px solid black;
+    width: 12%;
+}
+.login input{
+    border: 1px solid grey !important;
+    padding: 5px 10px;
+    border-radius: 18px !important;
+    margin-bottom: 20px;
+}
+.login.text-center h2{
+	padding-left: 10%;
+}
+.login.col-md-6{
+	    padding: 0% 7% 0% 0%;
+	
+}
+.login.btn2{
+	    width: 65%;
+}
+.login.btn1{
+	    width: 80%;
+	
+    margin-bottom: 22px;
+}
+.login.p1{
+	padding:0% 25%;
+}
+.login h2{
+	    margin-bottom: 0px;
+	    color:grey;
+}
+.login img{
+	    width: 9%;
+    margin: 4%;
+}
+.login button{
+	    font-size: 1.login.5vmax;
+    text-transform: uppercase;
+}
+}
+@media screen and (max-width: 768px){
+	.text-center h2 {
+    padding-left: 0%;
+}
+	  .navbar-header {
+	    padding: 25px 0px;
+	    }
+	.navbar ul {
+    display: inline-block !important;
+}
+	h1 {
+    font-family: Raleway;
+    font-size: 31px!important;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 200;
+    width: 52%;
+    border-bottom: 2px solid black !important;
+    }
+	body{
+	
+    text-align: -webkit-center;
+	}
+	p{
+	
+    text-align: -webkit-center;
+	}
+	.login.col-sm-6 {
+	text-align:center;
+	}
+.login h1{
+	text-transform: uppercase;
+    font-size: 23px;
+    /* text-decoration: underline; */
+    line-height: 52px;
+    border-bottom: none;
+    width: 100%;
+    text-align:center;
+}
+.login input{
+	    border: 1px solid grey;
+    padding: 5px 10px;
+    border-radius: 18px;
+    width: 80%;
+    margin-bottom: 20px;
+}
+.login.text-center h2{
+	    text-align: center;
+	padding-left: 0%;
+}
+.login.col-md-6{
+	    padding: 0% 5% 0% 5%;
+	
+}
+.login.btn2{
+	    margin-top: 15px;
+	   
+	    width: 80%;
+}
+.login.btn1{
+	    width: 80%;
+	 margin-top: 15px;
+	
+    margin-bottom: 22px;
+}
+.login.p1{
+	padding:0% 25%;
+}
+.login h2{
+	margin-top: 50px;
+	
+	    text-align: center;
+	    margin-bottom: 14px;
+	    color:grey;
+}
+.login img{
+	     width: 8%;
+    margin: 3%;
+}
+.login button{
+	
+        font-size: 17px;
+    margin: 5%;
+
+    text-transform: uppercase;
+}
+.text-center button{
+	    width: 40% !important;
+}
+}

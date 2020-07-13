@@ -1,0 +1,617 @@
+.my-profile {
+    margin-top: 5.5%;
+    width: 96%;
+    padding: 4% 0%;
+}
+.fav-box{
+    width: 100%;
+    border-radius: 5px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    box-shadow: 0px 4px 20.6px 0.4px rgba(0, 0, 0, 0.08);
+
+}
+.profile-img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.white-box  .glyphicon{
+    position: absolute;
+    margin-top: 10px;
+    color: #4ab7f6;
+    right: 7px;
+}
+.download-remove-btn{
+    background: transparent;
+    border: none;
+    margin: 10px -10px;
+    padding: 0px;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #46b6f6;
+}
+.cus-row{
+  margin: 0px;
+}
+.fav-heart{
+    width: 17px;
+    margin: 0px 0px;
+  }
+.fav-box .album-img{
+    width: 100%;
+    height: 190px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.fav-btn{
+  background: transparent;
+  border: none;
+  margin: 10px -5px;
+  padding: 0px;
+}
+.remove-btn{
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 22.5px;
+    width: 130px;
+    padding: 5px;
+    margin: 5px;
+
+    margin-bottom: 5%;
+    display: inline-block;
+    background-color: #51c6ec;
+    border: solid 1px #51c6ec;
+    font-stretch: normal;
+    line-height: 1.21;
+    letter-spacing: 0.6px;
+    text-align: center;
+    color: #ffffff;
+}
+.fav-modal p{
+  font-size: 22.5px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  margin-bottom: 8%;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #8b8b8b;
+}
+.fav-box p{
+margin: 10px 0px;
+height: 20px;
+  overflow-y: hidden;
+}
+.customer-profile{
+	width:130px;
+	border: 2px solid #f2f2f2;
+	height:130px;
+	border-radius:50%;
+}
+.fileContainer {
+    overflow: hidden;
+    position: relative;
+}
+
+.edit-photo {
+    font-size: 11px;
+    margin-bottom: 7%;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    color: #000000;
+}
+.fileContainer [type=file] {
+    cursor: pointer;
+}
+
+.fileContainer [type=file] {
+    cursor: inherit;
+    display: block;
+    font-size: 999px;
+    filter: alpha(opacity=0);
+    min-height: 100%;
+    min-width: 100%;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    text-align: right;
+    top: 0;
+}
+.fileContainer {
+    overflow: hidden;
+    position: relative;
+    display: inherit;
+}
+.customer-photo h3{
+  margin-top: 0px;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.58;
+  letter-spacing: 1.4px;
+  text-align: center;
+  color: #000000;
+}
+.grey-bg{
+	background-color: #ffffff;
+  margin: 0% 4% 0% 0%;
+  padding: 1% 3% 2%;
+  box-shadow: 0px 8px 24.9px 4.1px rgba(238, 238, 238, 0.71);
+}
+.profile-tab{
+    margin: 10% 7%;
+    border-radius: 4px;
+}
+.profile-tab li{
+ background-color: #f4f4f4;
+}
+.custom-pills>li>a {
+    border-radius: 0px;
+}
+.custom-pills .active{
+	
+ background-color: #46b6f6;
+}
+.nav-stacked>li+li {
+    margin-top: 5px;
+    }
+.profile-tab li {
+    background-color: #f4f4f4;
+    border: solid 1px #46b6f6 !important;
+    background: #fff;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #46b6f6;
+}
+.profile-tab .nav>li>a {
+       position: relative;
+    display: block;
+    padding: 15px 15px;
+}
+
+.profile-tab a{
+	font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.88;
+  letter-spacing: 1.2px;
+  text-align: left;
+  color: #002d42;
+	
+}
+.profile-tab a:hover{
+	  color: #002d42;
+}
+.custom-padding{
+	    padding: 5%;
+}
+.custom-padding h2{
+    font-size: 25px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #28b6f6;
+}
+.white-box {
+    background: #fff;
+    padding: 0% 5%;
+    margin: 0% 0%;
+}
+.customer-photo{
+    margin-top: 20%;
+}
+
+
+.basic-info .show-password {
+    font-size: 10px;
+    font-weight: normal;
+    font-style: normal;
+    float: right;
+    margin-top: -10px;
+    padding: 0px 0px;
+    background: transparent;
+    text-transform: uppercase;
+    border: none;
+    font-stretch: normal;
+    letter-spacing: 1px;
+    color: #000000;
+}
+.social-medial-img {
+    width: 17px !important;;
+    margin: 5px 10px !important;;
+}
+.basic-info .form-control{
+    border: none;
+
+     height: 30px;
+    padding: 6px 6px;
+    font-size: 15px;
+   /* padding: 6px 0px !important;;;*/
+    background: transparent;
+    box-shadow: inset 0 0px 0px rgba(0,0,0,.075);
+    background-image: none;
+    border-radius: 0px;
+}
+.basic-info h3{
+	
+    margin-left: -17px;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    margin-top: 0px;
+    line-height: 2.31;
+    margin-bottom: 20px;
+    
+    border: 1px solid #ececec;
+    letter-spacing: 1.4px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    box-shadow: 0px 1px 4.5px 0.5px rgba(69, 68, 68, 0.1);
+    text-align: center;
+    color: #28b6f6;
+}
+ .basic-info .col-md-6{
+    padding: 0% 5%;
+}
+.basic-info .inline-flex{
+    padding-left: 2px;
+    padding-right: 2px;
+    
+    margin-bottom: 20px;
+    border-bottom: 1px solid #b5b5b5;
+    border-radius: 0px;
+}
+.basic-info .glyphicon{
+    color: #4ab7f6;
+}
+.basic-info .Book-your-Cook-btn {
+    font-weight: 400 !important;;
+    margin: 21px 10px 21px 10px !important;;
+    
+}
+.basic-info .Book-your-Cook-btn:hover {
+    font-weight: 400 !important;;
+    text-decoration:none;
+    margin: 21px 10px 21px 10px !important;;
+}
+.Book-your-Cook-btn {
+    font-weight: 400 !important;;;
+    padding: 7px 30px !important;
+}
+.spl-btn{
+	  font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    padding: 5px;
+    margin: 5% 0% 0%;
+    width: 200px;
+    /* margin: 5%; */
+    letter-spacing: 1px;
+    text-align: center;
+    color: #ffffff;
+    border-radius: 17.2px;
+    background-color: #40c6eb;
+}
+.spl-btn:hover{
+	text-decoration:none;
+	color:#fff;
+}
+.total .spl-btn{
+	float:right;
+}
+
+ 
+
+
+	@media only screen and (min-width:767px) {
+    .fav-modal .modal-body p{
+      width: 80%;
+      margin: auto;
+      margin-bottom: 8%;
+    }
+  .spl-tab-content{
+    min-height: 450px;
+  }
+}
+.alert-mssg{
+	text-align:center;
+	font-size: 16px;
+	color: #28b6f6 !important;
+}
+@media only screen and (max-width:1200px) and (min-width:768px){
+  .download-remove-btn {
+    margin: 0px 0px 10px;
+  }
+  .fav-btn {
+    margin: 0px 0px 10px;
+  }
+  .fav-box .album-img {
+    height: 110px;
+  }
+  .fav-modal p {
+    font-size: 15.5px;
+  }
+  .remove-btn {
+    font-size: 16px;
+  }
+	.my-profile {
+      margin-top: 9.5%;
+      width: 100%;
+	}
+	.alert-mssg{
+	text-align:center;
+	font-size: 14px;
+	color: #28b6f6 !important;
+    }
+	.payment-history h3 {
+    font-size: 14px;
+	}
+	.details h4 {
+    font-size: 14px;
+	}
+	.subscription1 h3 {
+    margin: 6% 0%;
+    font-size: 14px;
+   }
+   .reffer-n-earn p {
+    font-size: 14px;
+   }
+   .basic-info .white-box {
+    background: #fff;
+    padding: 5% 5%;
+   }
+   .reffer-n-earn br{
+   display:none;
+   }
+   .basic-info .form-control {
+    font-size: 14px;
+   }
+   .basic-info .show-password {
+    font-size: 9px;
+    margin-top: -15px;
+   }
+   .spl-btn {
+    padding: 4px 20px !important;
+   }
+   .wallet p {
+    font-size: 14px;
+   }
+	.total .spl-btn {
+    padding: 8px 30px !important;
+    width: 160px;
+	}
+	.details h5 {
+    font-size: 14px;
+	}
+	.customer-photo h3 {
+      margin-top: 0px;
+      font-size: 16px;
+	}
+	.subscription1 h3 {
+    font-size: 15px;
+	}
+	.subscription1 h4 {
+    font-size: 18px;
+    font-weight: 400;
+    margin: 6% 0% 10%;
+   }
+   .custom-padding {
+    padding: 5% 1%;
+   }
+   .booking-div {
+    padding: 10% 0% 0%;
+}
+.booking-div p {
+    font-size: 14px;
+    line-height: 1 !important;
+}
+.white-box {
+    background: #fff;
+    padding: 5% 3%;
+}
+.booking-info {
+    border-radius: 5px;
+    width: 95%;
+}
+   .booking-div img{
+    width: 60px;
+    }
+	.custom-padding h2 {
+      font-size: 20px;
+	}
+	.profile-tab a {
+    font-size: 14px;
+    line-height: 1.5;
+	}
+	.customer-profile {
+	    width: 100px;
+	    border: 2px solid #f2f2f2;
+	    height: 100px;
+	    border-radius: 50%;
+	}
+}
+@media only screen and (max-width:767px) and (min-width:200px){
+   .spl-col{
+    padding-right: 0px;
+   }
+  .download-remove-btn {
+    background: transparent;
+    border: none;
+    margin: 10px 0px;
+  }
+  .grey-bg {
+    margin: 0% 0% 0% 0%;
+  }
+  .fav-modal p {
+    font-size: 14.5px;
+    font-weight: 300;
+    padding: 5%;
+  }
+  .remove-btn {
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 22.5px;
+    width: 100px;
+  }
+  .spl-col-6{
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+  .fav-box {
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  .spl-row-1{
+   margin: 0px;
+  }
+  .spl-btn {
+    font-size: 15px;
+    width: 170px;
+  }
+  .fav-box p {
+    margin: 5px 0px;
+    height: 32px;
+    line-height: 1.2;
+    font-size: 12.9px;
+    overflow-y: hidden;
+  }
+  .fav-btn {
+    margin: 0px 0px 10px;
+  }
+  .fav-box .album-img {
+    width: 100%;
+    height: 120px;
+  }
+	.my-profile {
+      margin-top: 9.5%;
+      width: 100%;
+	}
+	.edit-photo {
+    font-size: 10px;
+	}
+	.profile-tab {
+    margin: 10% 15%  !important;;;
+	}
+	.profile-tab a {
+    font-size: 13px !important;;
+    line-height: 1.5;
+    padding: 6px 5px !important;
+    text-align: center;
+    }
+	.alert-mssg{
+	text-align:center;
+	font-size: 14px;
+	color: #28b6f6 !important;
+    }
+	.payment-history h3 {
+    font-size: 13px;
+	}
+	 .payment-history .glyphicon{
+    float: right;
+	}
+	.details h4 {
+    font-size: 14px;
+	}
+	.subscription1 h3 {
+    margin: 3% 0%;
+    font-size: 13px;
+   }
+   .form-horizontal{
+    padding: 2% 5%;
+   }
+   .subscription-div .input-group-addon {
+    background-color: transparent;
+   }
+   .basic-info .form-control {
+    /* height: 25px; */
+    padding: 6px 7px;
+    font-size: 12px !important;
+}
+   .reffer-n-earn p {
+    font-size: 13px;
+   }
+   .basic-info .white-box {
+    background: #fff;
+    padding: 5% 5%;
+   }
+   .reffer-n-earn br{
+   display:none;
+   }
+   .basic-info .form-control {
+    font-size: 14px;
+   }
+   .basic-info .show-password {
+    font-size: 9px;
+    margin-top: -15px;
+   }
+   
+.booking-div .col-sm-4{
+    height: 100px;
+}
+   .custom-padding {
+    padding: 5% 1%;
+   }
+   .booking-div {
+    padding: 10% 0% 0%;
+}
+.booking-div p {
+    font-size: 13px;
+    line-height: 1 !important;
+}
+.booking-info h6 {
+    font-size: 16px;
+    margin: 6%;
+}
+.booking-info h5 {
+    font-size: 13px;
+}
+.white-box {
+    background: #fff;
+    padding: 5% 3%;
+}
+.booking-info {
+    border-radius: 5px;
+    width: 95%;
+}
+   .booking-div img{
+    width: 60px;
+    }
+	.custom-padding h2 {
+    font-size: 18px;
+    text-align: center;
+}
+	.profile-tab a {
+    font-size: 14px;
+    line-height: 1.5;
+	}
+	.customer-profile {
+    width: 100px;
+    border: 2px solid #f2f2f2;
+    height: 100px;
+    border-radius: 50%;
+}
+}

@@ -1,0 +1,98 @@
+@media (max-width: 320px) {
+
+}
+
+@media (max-width: 768px) {
+    #questions-category, #confirmation {
+    background-color: #f9f9f9;
+    padding-top: 125px;
+    padding-left: 29px;
+    padding-right: 29px;
+}
+
+#confirmation .confirm-title {
+    font-size: 19px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.75px;
+    text-align: left;
+    color: #4f4f4f;
+    padding-top: 0px!important;
+}
+
+.confirm-content {
+    font-size: 15px;
+    padding-top: 10px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.58px;
+    text-align: left;
+    color: #4f4f4f;
+}
+
+#confirmation .jumbotron {
+    background-color: #ffffff;
+    padding: 8px 12px;
+}
+
+.current-offers .input-group {
+    margin-left: 0!important;
+    width: 100%;
+    padding-top: 12px;
+}
+
+.current-offers button {
+    width: 111px;
+    height: 43px;
+    border: solid 2px #f15a36;
+    background-color: #ffffff;
+    cursor: pointer;
+    outline: 0!important;
+}
+
+.booking-card-title {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.all-booking-summary h5 {
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.0;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #000000;
+}
+
+.booking-summary .card{
+    width: 18em!important;
+}
+
+}
+
+
+@media (max-width: 543px) {
+
+}
+
+@media (max-width: 1160px) {
+
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+}
+
+@media (max-width: 1330px) {}
+
+
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+}

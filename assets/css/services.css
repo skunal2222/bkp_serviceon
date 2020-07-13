@@ -1,0 +1,51 @@
+.banner-section h1{
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.13;
+  letter-spacing: 1.9px;
+  color: #292b2c;
+}
+.banner-section p{
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.88;
+  letter-spacing: 1.3px;
+  text-align: center;
+  color: #292b2c;
+}
+.spl-div2{
+	display:none;
+}
+.spl-div3{
+	display:none;
+}
+
+.spl-div4{
+	display:none;
+}
+.in{
+	opacity:1 !important;
+}
+.custom-tabular{
+    border: solid 1px #f8bb45;
+    background: #fff;
+    padding-left: 0px;
+    list-style-type: none;
+    text-align: center;
+}
+.custom-tabular li{
+    border-bottom: solid 1px #f8bb45;
+}
+.w3-button{
+    background: transparent;
+    border-bottom: solid 1px #f8bb45;
+    width: 100%;
+    padding: 10px;
+}
+.w3-button:hover, .w3-button:focus{
+    background-color: #f8bb45;
+}

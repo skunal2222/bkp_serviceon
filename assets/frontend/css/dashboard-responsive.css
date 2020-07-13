@@ -1,0 +1,496 @@
+@media (max-width: 320px) {
+
+}
+
+/*iphone 5/SE*/
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+    #garage-wise-info .garage-name-title {
+    padding-top: 1rem;
+    font-size: 21px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    /* line-height: 1.65; */
+    letter-spacing: 1px;
+    text-align: left;
+    color: #000000;
+}
+
+#garage-wise-info .garage-speciality {
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #7b7b7b;
+}
+
+#garage-wise-info {
+    padding: 8rem 1rem 4rem 1.5rem;
+    background-color: #f9f9f9;
+}
+
+.garage-group-img{
+    width: 100%;
+}
+
+#garage-wise-info .jumbotron {
+    padding: 1.5rem 1.5rem!important;
+    background-color: #ffffff;
+}
+
+.garage-ratings{
+    text-align: left!important;
+    padding-right: 0!important;
+}
+
+.mid-dot {
+    padding: 0px 3px;
+    position: relative;
+    bottom: 3px;
+    font-size: 18px;
+}
+
+.offer-banner .current-offer{
+    font-size: 1rem;
+    padding-top: 5px;
+}
+
+.search-service .input-no-outline {
+    border-top-style: hidden;
+    padding-bottom: 8px;
+    margin-top: 2rem;
+    width: 1em;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    width: 17.2rem;
+    background-color: #f9f9f9;
+}
+
+.category-no {
+    font-size: 22px;
+    padding-left: 0!important;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: 0.63px;
+    text-align: left;
+    color: #000000;
+}
+
+.services-summary .service-summary-card {
+    width: 17.5rem!important;
+    margin-top: 2.5rem!important;
+}
+
+.garage-summary-btn button {
+    width: 100%;
+    height: 45px;
+    outline: none!important;
+    border: none!important;
+    cursor: pointer;
+    color: #ffffff;
+    background-image: linear-gradient(to top, #ed3237, #f68832);
+}
+
+.all-summary h5 {
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.0;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #000000;
+}
+
+.type-of-services h5 {
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.0;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #000000;
+}
+
+.type-of-services button {
+    border: solid 1px #b7b7b7;
+    background: none;
+    width: 125px;
+    line-height: 2.0;
+    font-size: 15px;
+    outline: 0!important;
+}
+
+.category-no {
+    font-size: 19px;
+    padding-left: 0!important;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: 0.63px;
+    text-align: left;
+    color: #000000;
+}
+
+}
+
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 640px) 
+  and (-webkit-min-device-pixel-ratio: 3){
+
+  #garage-wise-info {
+    padding: 7rem 2rem 5rem 2rem;
+    background-color: #f9f9f9;
+}
+
+#garage-wise-info .garage-group-img{
+    width: 100%;
+}
+
+#garage-wise-info .garage-name-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 27px;
+    padding-top: 1rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.3;
+    letter-spacing: 1.15px;
+    text-align: left;
+    color: #000000;
+}
+
+#garage-wise-info .garage-speciality {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #7b7b7b;
+}
+
+#garage-wise-info .jumbotron {
+    padding: 1.5rem 1rem!important;
+    background-color: #ffffff;
+}
+
+#garage-wise-info .garage-ratings{
+    padding-right: 0rem!important;
+    text-align: left!important;
+}
+
+.offer-banner .current-offer{
+    font-size: 16.5px!important;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+}
+
+#service-category .garage-service-card{
+    width: 100%!important;
+}
+
+.search-service .input-no-outline {
+    border-top-style: hidden;
+    padding-bottom: 8px;
+    margin-top: 2rem;
+    width: 1em;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    width: 17.2rem;
+    background-color: #f9f9f9;
+}
+
+.search-service .search-garage-btn {
+    position: relative;
+    left: -2em;
+    bottom: 0em;
+}
+
+.category-type .category-no {
+    font-size: 20px;
+    padding-left: 0!important;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: 0.63px;
+    text-align: left;
+    color: #000000;
+}
+
+.services-summary .service-summary-card{
+    width: 18.5rem!important;
+    margin-top: 2.5rem;
+}
+
+.garage-summary-btn button {
+    width: 100%;
+    height: 3rem;
+    outline: none!important;
+    border: none!important;
+    cursor: pointer;
+    color: #ffffff;
+    background-image: linear-gradient(to top, #ed3237, #f68832);
+}
+
+  }
+
+
+@media (max-width: 768px) {
+
+}
+
+
+/*ipad*/
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1){
+
+    .search-service .input-no-outline {
+    border-top-style: hidden;
+    padding-bottom: 8px;
+    margin-bottom: 2rem;
+    width: 1em;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    width: 100%;
+    background-color: #f9f9f9;
+}
+
+.garage-group-img{
+    width: 100%!important;
+}
+
+#garage-wise-info .garage-name-title {
+    font-size: 23px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1.15px;
+    text-align: left;
+    color: #000000;
+}
+
+#garage-wise-info .garage-speciality {
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #7b7b7b;
+}
+
+#garage-wise-info .jumbotron {
+    padding: 1rem 1rem!important;
+    background-color: #ffffff;
+}
+
+.current-offer{
+    font-size: 15px;
+    padding-top: 2px;
+}
+
+.garage-ratings{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    padding-right: 1rem!important  
+}
+
+.mid-dot {
+    padding: 0px 0px;
+    position: relative;
+    bottom: 3px;
+    font-size: 18px;
+
+}
+
+#garage-wise-info {
+    padding: 9rem 15px 4rem 15px;
+    background-color: #f9f9f9;
+}
+
+#service-category .garage-service-card {
+    width: 9.5rem!important;
+}
+
+.service-categories-table .card{
+    width: 100%;
+    margin-left: 3rem;
+
+}
+
+.service-categories-cards {
+    width: 100%;
+    margin-left: 3rem;
+}
+
+.service-summary-card{
+    width: 14rem!important;
+}
+
+.garage-summary-btn button {
+    width: 100%;
+    height: 45px;
+    outline: none!important;
+    border: none!important;
+    cursor: pointer;
+    color: #ffffff;
+    background-image: linear-gradient(to top, #ed3237, #f68832);
+}
+
+.search-service .input-no-outline {
+    border-top-style: hidden;
+    padding-bottom: 8px;
+    margin-bottom: 2rem;
+    width: 1em;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    width: 131%;
+    margin-left: 3rem;
+    background-color: #f9f9f9;
+}
+
+.category-type .search-service{
+    justify-content: left!important;
+}
+
+}
+
+
+/*Ipad pro*/
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+.garage-service-card{
+    width: 11.5rem!important;
+}
+
+#category-type-1 .card{
+    width: 26rem;
+    margin-left: 3rem;
+}
+
+#garage-wise-info {
+    padding: 150px 40px 6rem 40px;
+    background-color: #f9f9f9;
+}
+
+.services-summary .service-summary-card{
+    width: 19rem!important;
+}
+
+.search-service .input-no-outline {
+    border-top-style: hidden;
+    padding-bottom: 8px;
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+    width: 1em;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    width: 24rem;
+    background-color: #f9f9f9;
+}
+
+.garage-summary-btn button {
+    width: 100%;
+    height: 50px;
+    outline: none!important;
+    border: none!important;
+    cursor: pointer;
+    color: #ffffff;
+    background-image: linear-gradient(to top, #ed3237, #f68832);
+}
+
+.service-categories-cards{
+        width: 26rem;
+    margin-left: 3rem;
+}
+
+.garage-group-img{
+    width: 100%;
+}
+
+#garage-wise-info .garage-name-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1.15px;
+    text-align: left;
+    color: #000000;
+}
+
+#garage-wise-info .garage-speciality {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #7b7b7b;
+}
+
+.garage-ratings {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center!important;
+}
+
+.service-cate-title {
+    font-size: 14px;
+    padding-left: 10px!important;
+}
+
+}
+
+
+@media (max-width: 543px) {
+
+}
+
+@media (max-width: 1160px) {
+
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+}
+
+@media (max-width: 1330px) {}
+
+
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+}

@@ -1,0 +1,482 @@
+/*Galaxy s5*/
+
+@media only screen 
+
+  and (max-device-width: 480px) 
+  {
+.services-type-slider{
+	width: 100%;
+	padding-top: 10px;
+  }
+}
+
+
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 640px) 
+  and (-webkit-min-device-pixel-ratio: 3){
+.header-left-img {
+    position: relative;
+    bottom: 50px;
+    left: 40px;
+    display: none;
+}
+
+.header-right-img {
+    display: none;
+    position: relative;
+    bottom: 50px;
+    left: 75px;
+}
+
+.garage-data {
+    padding-top: 8em;
+}
+
+#main-title .main-header {
+    text-transform: uppercase;
+    font-size: 23px;
+    font-weight: 700;
+    color: #282828;
+}
+
+#main-title .header-content {
+    font-size: 16px;
+    padding-top: 15px;
+}
+
+.logo-frame {
+    padding: 3em 0 4em;
+    margin-bottom: 5rem;
+}
+
+.bike-brands{
+	padding-top: 1rem;
+}
+
+#main-title .jumbotron h4 {
+    font-size: 22px;
+    font-weight: 750;
+}
+
+.headers {
+    font-size: 36.5px;
+    color: #000000;
+    line-height: 1.16;
+    font-weight: 900;
+    letter-spacing: 1.08px;
+}
+
+#questions-category, #confirmation, .section-padding {
+    background-color: #f9f9f9;
+    padding-top: 90px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.para-content {
+    opacity: 0.9;
+    line-height: 1.39;
+    letter-spacing: 0.58px;
+    text-align: left;
+    color: rgba(40, 40, 40, 0.9);
+    font-size: 16px;
+    letter-spacing: 1.5px;
+}
+
+.bike-service {
+    width: 100%;
+    margin-top: 2rem;
+}
+
+#Why-Choose-ServiceOn{
+	
+    background-color: #f9f9f9;
+    padding-top: 0rem;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.service-settings {
+    padding: 1em 0 3em;
+        margin-bottom: 3rem;
+}
+
+.rectangle-section {
+    position: absolute;
+    bottom: -137px;
+    left: 0px;
+    margin: auto;
+}
+
+.mobile-sideimg {
+	text-align: center!important;
+
+}
+.mobile-app-sideimg{
+	    display: none;
+}
+
+.service-back-img  .para-content {
+    opacity: 0.9;
+    line-height: 1.39;
+    letter-spacing: 0.58px;
+    text-align: left;
+    color: rgba(40, 40, 40, 0.9);
+    font-size: 14px;
+    letter-spacing: 1.5px;
+}
+
+.section-padding-white {
+    padding-top: 3rem;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.types-of-service{
+	margin-top: 1rem;
+}
+
+#myCarousel2 .carousel-control-prev-icon {
+    background-image: url(data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' f…3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E);
+    position: absolute;
+    left: -33px;
+}
+
+#myCarousel2 .carousel-control-next-icon {
+    background-image: url(data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' f…3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E);
+    position: absolute;
+    right: -33px;
+}
+
+#subscribe-section{
+	padding-top: 3rem;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.subscribe-title{
+	font-size: 22px;
+}
+
+.subscribe-title-content{
+    font-size: 13px;
+}
+
+}
+
+/*ipad*/
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+.services-slider .types-of-service {
+    height: 50px;
+    width: 100%;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    outline: none;
+    border: 0!important;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.26;
+    letter-spacing: 0.53px;
+}
+
+#myCarousel2 .carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+    position: absolute;
+    right: -29px;
+}
+
+#myCarousel2 .carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+    position: absolute;
+    left: -29px;
+  }
+
+  .header-left-img {
+    position: relative;
+    bottom: 50px;
+    left: 15px;
+}
+
+.header-right-img {
+    position: relative;
+    bottom: 50px;
+    left: -10px;
+}
+
+.bike-brands{
+    padding:1rem 0px;
+}
+
+.logo-frame {
+    padding: 3em 0 1em;
+}
+
+#main-title .jumbotron h4 {
+    font-size: 24px;
+    font-weight: 750;
+}
+
+#main-title .jumbotron p {
+    font-size: 15px;
+}
+
+.headers {
+    font-size: 42.5px;
+    color: #000000;
+    line-height: 1.16;
+    font-weight: 900;
+    letter-spacing: 1.08px;
+}
+
+.para-content {
+    opacity: 0.9;
+    line-height: 1.39;
+    letter-spacing: 0.58px;
+    text-align: left;
+    color: rgba(40, 40, 40, 0.9);
+    font-size: 16px;
+    letter-spacing: 1.5px;
+}
+
+.section-padding1{
+
+        background-color: #f9f9f9;
+    padding-top: 1rem;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.section-padding-white {
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+}
+
+
+/*Ipad pro*/
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+.mobile-app-sideimg{
+    width: 100%;
+}
+
+.para-content1{
+    padding-left: 10rem;
+    padding-right: 3rem;
+}
+
+}
+
+
+/*Iphone 5/se*/
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+    .book-now-btn {
+        font-size: 13px;
+    background-color: #EE3E37;
+    color: #FFFF;
+    box-shadow: 8px 8px 10px rgba(0,0,0,0.12) !important;
+    border-top-left-radius: 0!important;
+    border-bottom-left-radius: 0!important;
+    border-top-right-radius: 0!important;
+    border-bottom-right-radius: 0!important;
+}
+
+.about-us-btn {
+    border: 1px solid #F15A36;
+    color: #F15A36;
+    font-size: 13px;
+    box-shadow: 6px 8px 10px rgba(0,0,0,0.12) !important;
+    border-top-left-radius: 0!important;
+    border-bottom-left-radius: 0!important;
+    border-top-right-radius: 0!important;
+    border-bottom-right-radius: 0!important;
+}
+
+
+
+.para-content {
+    opacity: 0.9;
+    line-height: 1.39;
+    letter-spacing: 0.58px;
+    text-align: left;
+    color: rgba(40, 40, 40, 0.9);
+    font-size: 14px;
+    letter-spacing: 1.5px;
+}
+
+#main-title .main-header {
+    text-transform: uppercase;
+    font-size: 21px!important;
+    font-weight: 700;
+    color: #282828;
+}
+}
+
+
+/*pixel 2*/
+@media only screen 
+  and (max-device-width: 411px){
+    .header-left-img {
+    position: relative;
+    bottom: 50px;
+    left: 40px;
+    display: none;
+}
+
+.header-right-img {
+    display: none;
+    position: relative;
+    bottom: 50px;
+    left: 75px;
+}
+
+.garage-data {
+    padding-top: 8em;
+}
+
+#main-title .main-header {
+    text-transform: uppercase;
+    font-size: 23px;
+    font-weight: 700;
+    color: #282828;
+}
+
+#main-title .header-content {
+    font-size: 16px;
+    padding-top: 15px;
+}
+
+.logo-frame {
+    padding: 3em 0 4em;
+    margin-bottom: 5rem;
+}
+
+.bike-brands{
+    padding-top: 1rem;
+}
+
+#main-title .jumbotron h4 {
+    font-size: 22px;
+    font-weight: 750;
+}
+
+.headers {
+    font-size: 28.5px;
+    color: #000000;
+    line-height: 1.16;
+    font-weight: 900;
+    letter-spacing: 1.08px;
+}
+
+#questions-category, #confirmation, .section-padding {
+    background-color: #f9f9f9;
+    padding-top: 90px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.para-content {
+    opacity: 0.9;
+    line-height: 1.39;
+    letter-spacing: 0.58px;
+    text-align: left;
+    color: rgba(40, 40, 40, 0.9);
+    font-size: 16px;
+    letter-spacing: 1.5px;
+}
+
+.bike-service {
+    width: 100%;
+    margin-top: 2rem;
+}
+
+#Why-Choose-ServiceOn{
+    
+    background-color: #f9f9f9;
+    padding-top: 0rem;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.service-settings {
+    padding: 1em 0 3em;
+        margin-bottom: 3rem;
+}
+
+.rectangle-section {
+    position: absolute;
+    bottom: -137px;
+    left: 0px;
+    margin: auto;
+}
+
+.mobile-sideimg {
+    text-align: center!important;
+
+}
+.mobile-app-sideimg{
+        display: none;
+}
+
+.service-back-img  .para-content {
+    opacity: 0.9;
+    line-height: 1.39;
+    letter-spacing: 0.58px;
+    text-align: left;
+    color: rgba(40, 40, 40, 0.9);
+    font-size: 14px;
+    letter-spacing: 1.5px;
+}
+
+.section-padding-white {
+    padding-top: 3rem;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.types-of-service{
+    margin-top: 1rem;
+}
+
+#myCarousel2 .carousel-control-prev-icon {
+    background-image: url(data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' f…3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E);
+    position: absolute;
+    left: -33px;
+}
+
+#myCarousel2 .carousel-control-next-icon {
+    background-image: url(data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' f…3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E);
+    position: absolute;
+    right: -33px;
+}
+
+#subscribe-section{
+    padding-top: 3rem;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.subscribe-title{
+    font-size: 22px;
+}
+
+.subscribe-title-content{
+    font-size: 13px;
+}
+
+}
+

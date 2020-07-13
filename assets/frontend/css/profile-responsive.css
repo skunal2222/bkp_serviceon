@@ -1,0 +1,735 @@
+@media (max-width: 320px) {
+
+}
+
+
+/*Galaxy s5*/
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 640px) 
+  and (-webkit-min-device-pixel-ratio: 3){
+    .ongoing-order-section {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+
+.ongoing-order-track .jumbotron {
+    padding: 11px 1rem;
+    width: 100%;
+    margin-left: 0rem;
+    background-color: #ffffff;
+    box-shadow: 0px 3px 9px 0 rgba(0, 0, 0, 0.11);
+}
+
+.ongoing-order-track .jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 1rem;
+    border-radius: .3rem;
+}
+
+.ongoing-order-track .track-order-btn {
+    width: 100%;
+    height: 45px;
+    padding-top: 10px;
+    margin-left: 0em;
+    margin-bottom: 2rem;
+    margin-top: 0.5rem;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+}
+
+.user-login-form {
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 2em;
+    padding-bottom: 5em;
+    margin-top: 3rem;
+}
+
+.user-login-form .form-control {
+    background-color: #fff;
+    width: 100%;
+}   
+
+.order-history-section {
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+
+.order-history-section .card {
+    margin-left: 0em;
+    margin-top: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+    padding: 1rem 1.5rem 0px 1.5rem;
+    width: 100%;
+}
+
+.order-history-section .order-history-accordin {
+    padding-top: 0rem;
+    padding-bottom: 5rem;
+    margin-top: 3rem;
+}
+
+.final-charges .total-amount {
+    padding-left: 0rem;
+}
+
+.repeat-invoice{
+    text-align: center!important;
+    margin-top: 2rem;
+}
+
+.final-charges .repeat-invoice button {
+    width: 65%;
+    height: 45px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    color: #FFFFFF;
+    border: none!important;
+    outline: none;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+.user-vechicle-section .saved-vehicles-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 28.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.71px;
+    padding-top: 1em;
+    padding-left: 1em;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.user-vechicle-section, .user-address, .refer-earn-section, .user-offer-points, #Digi  {
+    margin-top: 3rem;   
+}
+
+.add-new-vehicle-section .saved-vehicle-card {
+    padding-top: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 6em;
+}
+
+.add-vehicle-form .form-row .form-group:nth-of-type(2n) {
+    margin-left: 0rem;
+}
+
+.add-vehicle-form .form-row .form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0!important;
+    border-top-style: none!important;
+    border-right-style: none!important;
+    border-left-style: none!important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.user-selected-bikebrand .user-selected-bike {
+    font-size: 17px;
+}
+
+.add-new-vehicle-section .add-new-vehicle-title {
+    font-size: 28px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.89;
+    letter-spacing: 0.7px;
+    text-align: left;
+    color: #000000;
+    padding-bottom: 0rem;
+}
+
+.user-addnew-vehicle .form-button {
+    padding-top: 2rem;
+}
+
+.user-address-section .card-1 {
+    margin-left: 1em;
+    width: 90%;
+    height: 211px;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 11px;
+    padding-right: 35px;
+    padding-bottom: 38px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+}
+
+.address-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 28.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.71px;
+    padding-top: 1em;
+    padding-left: 15px;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.user-address-section .card-2 {
+    width: 90%;
+    height: 211px;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 11px;
+    padding-right: 30px;
+    padding-bottom: 38px;
+    margin-left: 1em;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+}
+
+.add-new-address-section .add-new-address-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 22.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.71px;
+    padding-top: 2em;
+    padding-left: 1em;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.add-new-address-section form {
+    padding-top: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 6em;
+}
+
+.new-address-submit {
+    width: 200px;
+    height: 45px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    outline: none;
+    border: none;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    line-height: 0.61;
+    letter-spacing: 0.58px;
+    color: #ffffff;
+    margin-top: 1rem;
+}
+
+
+
+.refer-earn-section img {
+    width: 100%;
+    height: 100%;
+}
+
+.refer-code {
+    position: relative;
+    bottom: 3rem;
+}
+
+.user-refer-code {
+    font-size: 27px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.9px;
+    color: #000000;
+}
+
+.refer-earn-section button {
+    width: 83%;
+    height: 50px;
+    box-shadow: 0px 3px 9px 0 rgba(0, 0, 0, 0.11);
+    background-color: #ffffff;
+    position: relative;
+}
+
+.share-code-btn {
+    width: 433px;
+    height: 65px;
+    font-size: 17px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.63px;
+    color: #ffffff;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    outline: 0!important;
+    border: none;
+}
+
+.details-point-table tbody {
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-top: 3rem;
+}
+
+.user-offer-points td {
+    position: relative;
+    left: 20px;
+    text-align: center;
+    text-align: left;
+    padding-top: 2.5em;
+}
+
+.user-offer-points table, .point-card-section {
+    padding-top: 0rem;
+}
+
+.user-point-card .card {
+    width: 100%;
+    height: 182px;
+    border-radius: 15px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    padding-left: 2rem;
+    padding-top: 25px;
+}
+
+.user-offer-points tr td:first-child {
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+.points-gain {
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #5fad54;
+}
+
+.deducted-points {
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #ee3b37;
+}
+
+.user-offer-points th {
+    width: 200px;
+    border-top: 1px solid #b7b7b7;
+    border-bottom: 1px solid #b7b7b7;
+    text-align: center;
+    padding: 15px 0px;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.13;
+    letter-spacing: 0.7px;
+    color: #000000;
+}
+
+.earn-more-points {
+    width: 100%;
+    height: 51px;
+    border-radius: 10px;
+    border: solid 2px #f15a36;
+}
+
+.user-point-card{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.refer-earn-section .offer-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #000000, #000000);
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.75px;
+    text-align: center;
+    color: #000000;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+}
+
+
+
+/*Ipad*/
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+    .location-serach-tab .form-control {
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+    margin-left: 1em;
+    box-shadow: 0px 2px 10px 0 rgba(0, 0, 0, 0.18);
+    border-radius: 0!important;
+}
+    .user-login-form {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 3em;
+    padding-bottom: 4em;
+}
+
+.user-login-form .form-control {
+    background-color: #fff;
+    width: 14em;
+}
+
+.order-history-section .card {
+    margin-left: 0.5em;
+    margin-top: 0rem;
+    border-radius: 10px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+    padding: 1rem 10px 0px 10px;
+    width: 100%;
+}
+
+#profile-login .profile-category-section button {
+    border: none!important;
+    outline: none!important;
+    font-size: 15px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3;
+    letter-spacing: 0.5px;
+    text-align: left;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.order-history-accordin .card{
+    margin-bottom: 2rem;
+}
+
+.ongoing-order-track .jumbotron {
+    padding: 11px 6px;
+    width: 100%;
+    margin-left: 0rem;
+    background-color: #ffffff;
+    box-shadow: 0px 3px 9px 0 rgba(0, 0, 0, 0.11);
+}
+
+.ongoing-order-track .bike-model {
+    font-size: 15.5px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.37;
+    letter-spacing: 0.44px;
+    /* text-align: left; */
+    padding-right: 0em;
+    color: rgba(78, 78, 78, 0.71);
+}
+
+.ongoing-order-track .order-date {
+    font-size: 16.5px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.37;
+    letter-spacing: 0.44px;
+    /* text-align: left; */
+    padding-right: 0em;
+    color: rgba(237, 50, 55, 0.71);
+}
+
+.ongoing-order-track .order-history-no {
+    font-size: 23.5px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: 0.71px;
+    text-align: left;
+    margin-bottom: 0!important;
+    color: #595959;
+}
+
+.ongoing-order-track .track-order-btn {
+    width: 100%;
+    height: 45px;
+    padding-top: 10px;
+    margin-left: 0em;
+    margin-top: 0.5rem;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+}
+
+.add-new-vehicle-section .saved-vehicle-card {
+    padding-top: 2em;
+    padding-left: 3em;
+    padding-right: 1em;
+    padding-bottom: 6em;
+}
+
+.add-vehicle-form .form-row .form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0!important;
+    border-top-style: none!important;
+    border-right-style: none!important;
+    border-left-style: none!important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.user-addnew-vehicle .form-button {
+    padding-top: 3rem;
+}
+
+.user-selected-bikebrand .user-selected-bike {
+    font-size: 15px;
+}
+
+.ongoing-order-section {
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+    margin-bottom: 5rem;
+}
+
+.user-address-section .card-1 {
+    margin-left: 1em;
+    width: 90%;
+    height: 211px;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-bottom: 38px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+}
+
+.address-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 27.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.71px;
+    padding-top: 1em;
+    padding-left: 20px;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.user-address-section .card-2 {
+    width: 90%;
+    height: 211px;
+    margin-left: 1em;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-bottom: 38px;
+    box-shadow: 0px 6px 13px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+}
+
+.add-new-address-section form {
+    padding-top: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 6em;
+}
+
+.new-address-submit {
+    margin-top: 2rem;
+    width: 200px;
+    height: 45px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    outline: none;
+    border: none;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    line-height: 0.61;
+    letter-spacing: 0.58px;
+    color: #ffffff;
+}
+
+.refer-earn-section img {
+    width: 100%;
+    height: 100%;
+}
+
+.refer-earn-section .offer-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #000000, #000000);
+    font-size: 25px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.75px;
+    text-align: center;
+    color: #000000;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.user-refer-code {
+    font-size: 30px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.9px;
+    color: #000000;
+}
+
+.share-code-btn {
+    width: 433px;
+    height: 65px;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.63px;
+    color: #ffffff;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    outline: 0!important;
+    border: none;
+}
+
+.user-offer-points table, .point-card-section {
+    padding-top: 0rem;
+}
+
+.user-point-card .card {
+    width: 100%;
+    height: 182px;
+    border-radius: 15px;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    padding-left: 2rem;
+    padding-top: 25px;
+}
+
+.user-point-card{
+        margin-left: 5em;
+    margin-right: 5em;
+}
+
+.earn-more-points {
+    width: 100%;
+    height: 51px;
+    border-radius: 10px;
+    border: solid 2px #f15a36;
+}
+
+.user-vechicle-section .saved-vehicles-title {
+    background-image: linear-gradient(to top, #ed3237, #f58634), linear-gradient(to bottom, #ffffff, #ffffff);
+    font-size: 28.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.71px;
+    padding-top: 1em;
+    padding-left: 1em;
+    text-align: left;
+    color: #ffffff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+}
+
+
+
+/*Ipad pro*/
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+.location-serach-tab .form-control {
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+    margin-left: 2em;
+    box-shadow: 0px 2px 10px 0 rgba(0, 0, 0, 0.18);
+    border-radius: 0!important;
+}
+
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+
+@media (max-width: 543px) {
+
+}
+
+@media (max-width: 1160px) {
+
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+}
+
+@media (max-width: 1330px) {}
+
+
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+}

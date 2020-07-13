@@ -1,0 +1,136 @@
+@CHARSET "UTF-8";
+.section1 h2{
+	text-align:left !important;
+	
+}
+
+.section22 h3 {
+	
+    margin-bottom: 50px;
+    color: grey;
+    
+    line-height: 1.5;
+    text-align: right;
+    font-size: 21px;
+    }
+  .section22    h2 {
+    line-height: 1.1;
+    text-align: right;
+    text-transform: uppercase;
+  }
+  
+  button {
+    background: #f0535a;
+    color: white;
+    padding: 8px 14px;
+    
+    border-top-right-radius: 34px;
+    border-top-left-radius: 34px;
+    border-bottom-right-radius: 34px;
+    border-bottom-left-radius: 34px;
+    font-size: 18px;
+    }
+     .section22{
+       text-align: right;
+       
+    padding: 5% 0% 0% 0%;
+
+     }
+     .section1 button{
+     width: 33%;
+     }
+     .section1{
+     
+    padding: 5% 0% 0% 0%;
+
+     }
+  
+     @media screen and (max-width: 700px)
+
+{
+	   .section6 {
+    padding: 14% 0% 10% 0%;
+    text-align: center;
+}
+	
+	.container{
+	width:85%;
+	
+    text-align: -webkit-center !important;
+	}
+	.section22 h2{
+	 text-align: -webkit-center !important;
+	}
+	.section22 h3{
+	 text-align: -webkit-center !important;
+	 
+	}
+	.section1 h2{
+	 text-align: -webkit-center !important;
+	}
+      #map {
+           width:80%;
+    float: right;
+    border-radius: 50%;
+       }
+     }
+    
+          @media screen and (min-width: 700px)
+
+
+{
+	 .navbar-top p{
+	
+    font-size: 13px !important;
+     }
+	h2 {
+    margin-bottom: 35px;
+	}
+	.section1 p{
+
+    font-size: 20px !important;
+}
+.section22 p{
+
+    font-size: 20px !important;
+}
+	.section22 h2 {
+    font-size: 40px;
+    }
+	.section1 h2{
+	text-align:left !important;
+	
+    font-size: 40px;
+}
+	.section1 p {
+    line-height: 26px;
+    font-size: 20px;
+    }
+	   .section6 {
+    padding: 10% 0% 10% 0%;
+    text-align: center;
+}
+      #map {
+            height: 500px;
+    width: 500px;
+    margin-top: -150px;
+    margin-right: 0px;
+    float: right;
+    border-radius: 50%;
+       }
+     }
+          @media screen and (min-width: 1440px)
+
+{
+	h2 {
+    margin-top: 80px;
+	}
+      #map {
+            height: 800px !important;;
+    width: 800px !important;
+    margin-top: -100px !important;;
+    margin-right: -170px!important;;
+    float: right;
+    border-radius: 50%;
+       }
+     }

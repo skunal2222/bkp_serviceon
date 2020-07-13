@@ -1,0 +1,209 @@
+body {
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.item-image {
+	margin: 0;
+    background: #fff;
+    box-shadow: -1px 0px 5px -2px #bdbdbd, 0px -1px 5px -2px #bdbdbd, 2px 0px 5px -2px #bdbdbd;
+}
+.item-image img {
+	width:100%;
+}
+.item-card {
+	margin-bottom:25px;
+}
+.item-name {
+	padding:10px 15px;
+	font-size:15px;
+}
+.item-description {
+	padding:5px 15px;
+}
+.item-actions {
+	margin:0px;
+	padding:5px 15px;
+}
+.item_add_btn {
+	font-size:16px;
+}
+
+.item_price {
+	padding: .85rem 0;
+	font-size:16px;
+}
+
+ul.cat-menu {
+	display:inline-block;
+}
+.cat-menu li a {
+	color: #ff6603;
+    cursor: pointer;
+    font-size: 16px;
+}
+.affix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #fff;
+    z-index: 1051;
+    padding-top:10px;
+}
+
+.cat-tabs {
+	width:100%;
+}
+.nav-tabs { border-bottom: 2px solid #DDD; }
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover { border-width: 0; }
+.nav-tabs > li > a { border: none; color: #666; }
+.nav-tabs > li.active > a, .nav-tabs > li > a:hover { border: none; color: #ff6603 !important; background: transparent !important; }
+.responsive-tabs > li > a::after { content: ""; background: #ff6603; height: 2px; position: absolute; width: 100%; left: 0px; bottom: -1px; transition: all 250ms ease 0s; transform: scale(0); }
+.responsive-tabs > li.active > a::after, .responsive-tabs > li:hover > a::after { transform: scale(1); }
+.responsive-tabs-mob > li > a::after { content: ""; background: #ff6603; height: 2px; position: absolute; width: 50%; left: 25%; bottom: -1px; transition: all 250ms ease 0s; transform: scale(0); }
+.responsive-tabs-mob > li.active > a::after, .responsive-tabs > li:hover > a::after { transform: scale(1); }
+.tab-nav > li > a::after { background: #21527d none repeat scroll 0% 0%; color: #ff6603; }
+.tab-pane { padding: 15px 0; }
+.tab-content{padding:20px}
+.cart-tabs-web {
+	display:block;
+}
+.cart-tabs-mobile {
+	display:none;
+}
+a.control_prev {
+	display:none;
+}
+a.control_next {
+	display:none;
+}
+.nav-tab-outer {
+	margin-top:90px;
+	height:50px;
+}
+.mobile-cart {
+	position: fixed;
+    bottom: 0px;
+    font-size: 16px;
+    background-color: #fe7d26;
+    width: 100%;
+    padding: 5px 0px;
+    z-index: 1;
+    color: #fff;
+    font-weight: 500;
+}
+.mobile-cart .fa {
+	color:#fff;
+	font-size:18px;
+}
+.mobile-cart .item-count {
+	padding-top:10px;
+}
+.mobile-cart {
+	display:none;
+}
+.cart {
+	border: 1px solid orange;
+	margin-right:5px;
+}
+.shopping-cart {
+	padding: 5px;
+    background: #f1f1f1;
+    font-size: 18px;
+}
+.full-screen {
+	width:100%;
+}
+.cart-screen {
+	width:75%;
+	float:left;
+}
+.hidden-screen {
+	display:none;
+}
+.show-screen {
+	display:block;
+	width:23%;
+	float:left;
+}
+/* Slider */
+@media (max-width: 768px) {
+	.cart-tabs-web {
+		display:none;
+	}
+	.cart-tabs-mobile {
+		display:block;
+	}
+	#slider {
+	  position: fixed;
+	  overflow: hidden;
+	  z-index: 1;
+	  background: #fff;
+/* 	  margin: 20px auto 0 auto; */
+/* 	  border-radius: 4px; */
+	}
+	
+	#slider ul {
+	  height: 60px;
+	  list-style: none;
+	}
+	
+	#slider ul li {
+	  position: relative;
+	  display: block;
+	  float: left;
+	  margin: 0;
+	  padding: 0;
+	  width: 320px;
+	  width: 100vw;
+	  height: 59px;
+	  text-align: center;
+	  line-height: 200px;
+	}
+	
+	a.control_prev, a.control_next {
+	  position: absolute;
+	  top: 0;
+	  z-index: 999;
+	  display: block;
+	  padding: 4% 3%;
+	  width: auto;
+	  height: auto;
+	  background: transparent;
+	  color: #fff;
+	  text-decoration: none;
+	  font-weight: 600;
+	  font-size: 18px;
+	  opacity: 0.8;
+	  cursor: pointer;
+	}
+	
+	a.control_prev:hover, a.control_next:hover {
+	  opacity: 1;
+	  -webkit-transition: all 0.2s ease;
+	}
+	
+	a.control_prev {
+	  border-radius: 0 2px 2px 0;
+	}
+	
+	a.control_next {
+	  right: 0;
+	  border-radius: 2px 0 0 2px;
+	}
+	
+	.slider_option {
+	  position: relative;
+	  margin: 10px auto;
+	  width: 160px;
+	  font-size: 18px;
+	}
+	.nav-tab-outer {
+		margin-top:70px;
+		height:50px;
+	}
+	.mobile-cart {
+		display:block;
+	}
+	.tab-content {
+		padding:0px;
+	}
+}

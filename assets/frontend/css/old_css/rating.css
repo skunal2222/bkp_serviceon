@@ -1,0 +1,50 @@
+   .br-theme-bootstrap-stars .br-widget {
+  height: 28px;
+  white-space: nowrap;
+}
+.br-theme-bootstrap-stars .br-widget a {
+  font: normal normal normal 18px/1 'Glyphicons Halflings';
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  text-decoration: none;
+    margin-right: 4px;
+    font-size: 25px;
+}
+.br-theme-bootstrap-stars .br-widget a:after {
+  content: '\e143';
+  color: #ff324a;
+}
+.br-theme-bootstrap-stars .br-widget a.br-active:after {
+color: #ff324a;
+    content: '\e005';
+}
+.br-theme-bootstrap-stars .br-widget a.br-selected:after {
+ color: #ff324a;
+    content: '\e005';
+}
+.br-theme-bootstrap-stars .br-widget .br-current-rating {
+  display: none;
+}
+.br-theme-bootstrap-stars .br-readonly a {
+  cursor: default;
+}
+@media print {
+  .br-theme-bootstrap-stars .br-widget a:after {
+    content: '\e005';
+    color: black;
+  }
+  .br-theme-bootstrap-stars .br-widget a.br-active:after,
+  .br-theme-bootstrap-stars .br-widget a.br-selected:after {
+    content: '\e005';
+    color: black;
+  }
+}
+    
+       @font-face {
+        font-family: 'Glyphicons Halflings';
+        src:url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/fonts/glyphicons-halflings-regular.eot');
+        src:url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),
+          url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/fonts/glyphicons-halflings-regular.woff') format('woff'),
+          url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/fonts/glyphicons-halflings-regular.ttf') format('truetype'),
+          url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+      }

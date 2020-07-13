@@ -1,0 +1,737 @@
+.margin-minus{
+	margin-top: -190px;
+}
+.more{
+	
+    cursor: pointer;
+}
+.exc-tax{
+	color:#fff;color: #fff;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: -60px;
+    width: 100%;
+}
+.less{
+	    border: none;
+    background: transparent;
+    color: #f6b944;
+    
+    cursor: pointer;
+}
+#mobile-nav-toggle i {
+    color: #1c0f41 !important;;;
+}
+.font-20{
+    font-size: 20px !important;;;
+}
+br{
+	display:inline-block;
+}
+.is-sticky .margin-minus {
+    margin-top: 5px !important;
+}
+.plan-signup .searchbtn:hover{
+	color:rgb(250, 186, 3);
+}
+@media only screen and (max-width:767px) and (min-width:575px){
+	.display-none {
+    height: 250px  !important;
+}
+}
+@media only screen and (max-width:1600px) and (min-width:1400px){
+
+.shortroad {
+    font-weight: 200;
+    margin-top: 5%;
+}
+.img222{
+    margin-top: 11.5%;
+    margin-bottom:0%;
+}
+.toppage{
+    padding: 50px 0 4px !important;
+}
+ .width101{
+    width: 66%;
+    padding: 0px 4px 0px 0px;
+    display: inline-block;
+}
+}
+/* .font-15{
+	font-family:13px  !important;; ;
+} */
+.family{
+	
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+}
+.block .numbringspan{
+    color: #ffffff;
+}
+/* .heightmain {
+     margin-top: 0px  !important;; 
+} */
+@media only screen and (max-width:1400px) and (min-width:1200px){
+	.width101 {
+    width: 70%;
+    padding: 0px 4px 0px 3px;
+    display: inline-block;
+}
+	.toppage{
+    padding: 38px 0 4px !important;
+}
+	.shortroad {
+    font-weight: 200;
+    margin-top: 5%;
+}
+.img222{
+    margin-top: 4%;
+    margin-bottom:0%;
+}
+
+}
+.block1 .input-group {
+    background: #fff;
+}
+
+@media only screen and (min-width:768px) {
+.display-none{
+	
+    height: 130px;
+}
+}
+@media only screen and (max-width:1300px) and (min-width:1000px){
+.desktop-img{
+	background: #fff; padding: 14px 7px;height: 50px;
+}
+}
+h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.display-none{
+	display:none;
+}
+.more{
+	border:none;
+	background:transparent;
+	color: #f6b944;
+	cursor:pointer;
+}
+.less{
+	    border: none;
+    background: transparent;
+    color: #f6b944;
+    
+    cursor: pointer;
+}
+.sec-special{
+	padding: 50px 0 0px !important;
+}
+.p1{
+    margin-bottom: 0px;
+}
+
+.shortroad {
+    font-weight: 200;
+    letter-spacing: 2px;
+    color: black;
+}
+h3 {
+    font-size: 23px;
+}
+.bikecar{
+   font-size: 35px;
+    margin-top: 30px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+.delvrname{
+	background:#fff;
+	border: none;
+	    font-size: 15px;
+}
+button{
+	outline:0 !important;
+}
+input{
+	outline:0 !important;
+}
+.block1 .searchbtn{
+	 padding: 14.5px 20px !important;;
+}
+.block--1{
+    display: inline-block;
+    background-color:white !important;
+}
+.block--1 img{
+	    width: 23px !important;;
+    margin-top: 3px;
+}
+.desktop-img{
+	background: #fff; padding: 14px 7px;height: 50px;
+}
+.block1 .input-group{
+	
+}
+.searchbtn {
+    margin-left: -5px;
+    background-color: rgb(27,15,65);
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    color: #fff;
+    border: none;
+    border-radius: 0px;
+   padding: 11.1px 20px;
+}
+.input-group-addon {  
+    padding: 10px .75rem;
+    border: none !important;
+}
+.delvrname {
+    background: #fff;
+    border: none;
+    padding: 16.5px 4px;
+}
+section {
+    padding: 50px 0;
+}
+.nav-menu a {
+    font-size: 15px;
+    font-weight: 300;
+    }
+    .underline{
+        text-decoration: underline;
+    }
+    .numbring {
+    font-size: 92px;
+    font-weight: 500;
+        letter-spacing: 2px;
+    }
+    .scrolltop {
+    display: none;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: #353738;
+    }
+    .card {
+    position: relative;
+    display: inline-flex;
+    }
+    .feature-col {
+    display: inline-flex !important;
+    padding-bottom: 0px; 
+}
+.container{
+	width:90%;
+}
+    .feature-col h3 {
+    color: #1b0e42;
+    font-size: 20px;
+    font-family: inherit;
+}
+.feature-col p {
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #797878;
+    height: auto;
+    margin-bottom: 0px;
+   /*  overflow: scroll; */
+    font-family: inherit;
+    line-height: 2;
+}
+.feature-col > div > div:last-child {
+    padding-left: 0px;
+}
+.numbring {
+    font-size: 24px;
+    line-height: 2.5;
+    }
+.stats-col{
+    margin-bottom: 1%;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.serviceses {
+    font-weight: 500;
+    font-size: 18px !important;
+    text-align: left;
+    color: rgb(32,32,32) !important;
+}
+.card-block .serviceses {
+    font-weight: 500;
+    font-size: 17px !important;
+    text-align: left;
+    font-weight: 500 !important;
+}
+.width80{
+    width: 70%;
+  /*   height: 180px; */
+}
+.feature-col h3 {
+    font-size: 17px !important;
+}
+.features {
+    padding-bottom: 45px;
+    padding-top: 75px;
+}
+.pricing-table .plan-name {
+    padding: 25px 0 15px;
+    }
+    .pricing-tables .pricing-table {
+    border: 0px solid #e4e4e4;
+    }
+    .plan-list li {
+    color: #1c0f41 !important;
+    font-weight: 300  !important;;
+    text-transform: capitalize  !important;;
+    letter-spacing: 1px  !important;;
+    font-size: 17px  !important;;
+        font-family: inherit;
+    }
+.pricing-table .plan-name {
+    background-image: url(../images/ser.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #f7f7f7;
+}
+    .pricing-table .plan-name {
+    padding: 35px 0 20px;
+     border-bottom: 0px solid #eee;
+}
+.pricing-tables .pricing-table {
+    text-align: center;
+    position: initial !important;;
+}
+.pricing-tables .pricing-table {
+   
+    background-color: #f7f7f7;
+}
+.pricing-table .plan-list li:first-child {
+    border-top: 0px solid #f7f7f7;
+}
+.pricing-tables {
+    padding: 25px 0 95px;
+}
+.pricing-table .plan-price .price-value {
+    font-size: 30px;
+    }
+.team .card-title-wrap {
+    padding: 15px 25px;
+    position: relative;
+    z-index: 9;
+    margin-top: -80px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.borderstyk {
+    border-right-width: 12px !important;
+    border-bottom-width: 37px !important;
+    border-right-style: solid !important;
+    border-bottom-style: solid !important;
+    border-right-color: #f7bb33 !important;
+    border-bottom-color: #f7bb33 !important;
+}
+.team .card-title-wrap .card-text {
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #fff;
+}
+.team .card-title-wrap .card-title {
+    font-size: 16px;
+    color: #f7bc33;
+    letter-spacing: 1px;
+}
+.team .card:hover .card-title-wrap {
+    background-color: #f7bc33;
+}
+.team .card p {
+    font-size: 22px;
+    color: #000000;
+    font-family: inherit;
+    font-weight: 600;
+    opacity: 1;
+    margin: 0;
+    padding: 15px 35px 0px;
+}
+.serv {
+    font-size: 16px !important;
+    color: #292b2c99 !important
+ font-weight: bolder !important;
+    opacity: .75 !important;
+    margin: 10px !important;
+    padding: 0 25px !important;
+}
+.btop:before{
+    padding: 0 35px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    border-top: 1px solid #000;
+    width: 20px;
+    position: absolute;
+}
+.place-card .place-card-large{
+	display:none !important;
+}
+.h33 {
+    font-size: 19px;
+    letter-spacing: 1px;
+    color: #1b1a1a;
+    font-weight: 400;
+}
+#contact {
+    background: #ffffff;
+    padding: 80px 0;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .8rem .75rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #464a4c;
+    font-family:inherit;
+    border-radius:0px !important;
+    background-color: #f7f7f7;
+    background-image: none;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 0px solid rgba(0,0,0,.15);
+}
+.spl{
+	
+    margin: 4% 10%;
+
+}
+.newsltr h3 {
+    margin-left: 8%;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+.newsbuton {
+	margin-bottom: 2%;
+    width: 35%;
+    margin-left: -5px;
+    background-color: rgb(27,15,65);
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 2%;
+    padding: 8px;
+    display: inline-block;
+    white-space: nowrap;
+    font-size: 22px;
+    text-align: center;
+}
+.mtop{
+    width:100%;
+    margin-top: 10%;
+
+}
+.mtop h3{
+	
+    margin-top: 12px;
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 22px;
+    letter-spacing: 1px;
+
+	
+}
+.newsbuton:hover{
+	    color: #d0c9c9;
+}
+.newsltr {
+    background: #faba03;
+    height: 100px;
+    margin-top: -85px;
+}
+.paddi .delvrname {
+	    height: 46px;
+    background: #fff;
+    border: none;
+   padding-left: 2%;
+    }
+    .searchbtn {
+    margin-left: -5px;
+    background-color: rgb(27,15,65);
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #fff;
+    border: none;
+    border-radius: 0px;
+    text-align: center;
+    }
+    .paddi{
+    padding-top: .6%;
+}
+#contact {
+    background: #ffffff;
+    padding: 57px 0 30px;
+
+}
+.site-footer .social-nav a{
+	opacity:1;
+}
+.social-nav11 a:hover{
+	opacity:.4;
+}
+.social-nav11{
+	    margin-bottom: 1%;
+	width: 100%;
+	display: inline-block !important;
+} 
+.mtop p {
+    line-height: 1.55;
+    color: #333;
+    font-weight: 500;
+}
+@media only screen and (max-width: 767px) and (min-width: 550px)
+{
+.paddi .searchbtn {
+    margin-left: -15px;
+     margin-top: 0%; 
+}
+}
+@media (max-width: 767px){
+.block {
+    padding-left: 0px !important;;;
+    padding-right: 0px !important;;;
+}
+}
+@media only screen and (min-width: 768px) 
+{
+.heightmain {
+    margin-bottom: 20px;
+}
+}
+
+@media only screen and (max-width: 549px) and (min-width: 300px)
+{
+.paddi .searchbtn {
+    margin-left: -15px;
+    margin-top: 4%;
+}
+}
+@media only screen and (max-width: 500px) and (min-width: 300px){
+.newsltr {
+    background: #faba03;
+    height: 206px  !important;;
+    margin-top: -85px;
+}
+.borderstyk {
+    margin-top: 16%;
+}
+}
+.locate-me{
+	color:#635d5d !important; font-size:15px;
+}
+@media only screen and (max-width:767px) and (min-width:300px){
+	.bg-bike {
+    background-image: none !important;
+	}
+	.exc-tax {
+    color: #fff;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 0px  !important;;
+    margin-top: 20px  !important;;
+	}
+	.heightmain img{
+	margin-top: 15%;
+	    width: 80px;
+	}
+	.width-ng {
+    width: 100% !important;;;
+}
+.font-15 {
+    font-size: 13px !important;
+    font-weight: 400;
+}
+	.locate-me{
+	color:#635d5d !important; font-size:10px !important;;
+}
+	.delvrname {
+    background: #fff;
+    border: none;
+    border-radius: 0px  !important;;;
+    padding: 19.5px 4px  !important;;;
+}
+.desktop-img {
+    background: #fff;
+    padding: 14.5px 7px  !important;;;
+}
+	.spl .card-block{
+    margin-bottom: 12%;
+}
+	.pricing-tables {
+    padding: 25px 0 15px;
+}
+.wrapersize {
+    font-size: 35px;
+    font-weight: 600;
+}
+.stats-col {
+    margin-bottom: 6%;
+}
+	.pricing-table .plan-price {
+    padding: 6px 0 10px;
+}
+.pricing-table .plan-list li {
+    padding: 8px;
+    }
+	.img222 {
+    margin-top: 10%;
+}
+	.newsltr {
+    background: #faba03;
+    height: 255px !important;
+    padding: 0% 0% 0% 7%;
+    margin-top: -85px;
+}
+
+.newsltr h3 {
+    margin-left: -5% !important;;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+	.spl {
+    margin: 4% 0%;
+}
+
+	
+	.newsbuton {
+    width: 100%;
+	}
+	.bikecar {
+    font-size: 21px;
+    }
+    .shortroad{
+    font-size: 19px;
+}
+	.width80 {
+    margin-top: 15%;
+    width: 40%;
+    height: auto;
+}
+.pricing-table .plan-price .price-value {
+    font-size: 24px;
+}
+.pricing-table .plan-name {
+    padding: 35px 0 0px;
+    background: #f7bb33;
+    border-bottom: 0px solid #eee;
+}
+.vipmain {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.team .card p {
+    font-size: 22px;
+    color: #000000;
+    font-family: inherit;
+    font-weight: 600;
+    opacity: 1;
+    margin: 0;
+    padding: 15px 35px 31px;
+}
+.newsltr {
+    background: #faba03;
+    height: 157px;
+    margin-top: -85px;
+}
+}
+
+ @media only screen and (max-width:1279px) and (min-width:300px){
+ .newsltr {
+    background: #faba03;
+    height: 157px;
+    margin-top: -85px;
+}
+.pricing-table .plan-name {
+    background-repeat: no-repeat;
+    background-size: 100%;
+   background-image:none;
+     background-color: #f6ba33;
+}
+ }
+ @media only screen and (max-width:1000px) and (min-width:768px){
+ .pricing-table .plan-price .price-value {
+    font-size: 26px;
+ }
+ .bikecar {
+    font-size: 26px;
+    margin-top: 30px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+ .width80 {
+    width: 70%;
+    margin-top: 22px;
+    height: 125px;
+}
+ .spl {
+    margin: 4% 1%;
+}
+ .pricing-table .plan-name h3 {
+    font-weight: 700;
+    color: rgb(20,16,41);
+    text-transform: uppercase;
+    font-size: 16px !important;
+}
+ .vipmain {
+    margin-top: 0px;
+}
+ 
+ }
+/*   @media only screen and (max-width:1600px) and (min-width:1400px){
+ .img222 {
+    margin-top: 2%;
+    height: 530px;
+}
+  }
+    @media only screen and (max-width:1399px) and (min-width:1200px){
+ .img222 {
+    margin-top: 2%;
+    height:300px;
+}
+  } */
+ @media only screen and (max-width:1600px) and (min-width:1370px){
+   .pricing-table .plan-name {
+    padding: 35px 0 30px !important;
+     border-bottom: 0px solid #eee;
+}
+}
+ @media only screen and (max-width:1190px) and (min-width:768px){
+ .nav-menu a {
+    padding: 22px 5px 18px 5px;
+    font-size: 13px !important;
+ }
+ .container {
+    width: 100% !important;
+}
+ }
+
+ @media only screen and (max-width:2000px) and (min-width:1450px){
+  .width101{
+ 
+    width: 84%;
+    display: inline-block;
+ }
+ }
+ @media only screen and (max-width:1360px) and (min-width:600px){
+ .width101{
+ 
+    width: 84%;
+    display: inline-block;
+ }
+}
+
+

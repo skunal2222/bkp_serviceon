@@ -1,0 +1,67 @@
+.brand{
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.28;
+  letter-spacing: 1.3px;
+  color: #000000;
+}
+.row-1 input[type=checkbox], input[type=radio] {
+    margin: 10px 4px 0px;
+}
+.select-service{
+    text-align: center;
+    margin-bottom: 5%;
+}
+.ser-btn{
+  border:1px solid #cecece;
+  border-radius: 28px;
+  font-size: 25px;
+  padding: 5px 30px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.28;
+  letter-spacing: 1.3px;
+  text-align: left;
+  color: #000000;
+  background:  #cecece;
+}
+.btn1-spl{
+
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.btn2-spl{
+    margin-left: -3px;
+    background: transparent;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+@media only screen and (max-width:1200px) and (min-width:768px){
+	.brand{
+	  font-size: 16px;
+	}
+  .ser-btn{
+  font-size: 18px;
+  }
+  .btn2-spl{
+    margin-left: -5px;
+  }
+}
+@media only screen and (max-width:767px) and (min-width:100px){
+	.brand{
+	  font-size: 14px;
+	}
+  .ser-btn {
+    font-size: 16px;
+    padding: 5px 20px;
+  }
+   .btn2-spl{
+    margin-left: -5px;
+  }
+  .select-service {
+    margin-top: 5%;
+  }
+}

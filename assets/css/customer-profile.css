@@ -1,0 +1,76 @@
+.icon-background1
+{
+     color: #faba03;
+} 
+ @media only screen and (min-width:768px){ 
+ .foterp{
+	  color: #1b0f41;
+font-size: 16px;
+ }
+}
+ @media only screen and (max-width:700px) and (min-width:300px){
+#info123 .input-group  #label1{
+ font-size: 14px !important;
+}
+
+
+ .foterp{
+ font-size: 14px !important;
+ }
+ #header {
+    height: 50px;
+    width: 630px;
+}
+  .foterp {
+    color: #1b0f41;
+    font-size: 14px !important;;
+  }
+  .nk-footer-text a p {
+    background: #f5f5f7;
+     font-size: 14px !important;;
+}
+.act{
+	 font-size: 14px !important;;
+}
+.foterp{
+	 font-size: 14px !important;;
+}
+ #billing123{
+    display: flex;
+    width: 600px;
+}
+ .o-6{
+ width:50%;
+ }
+}
+.input-group #label1 {
+    text-align: left;
+    margin-top: 7px;
+}
+.oo-bg {
+    /* margin-left: 45px; */
+    width: 88%;
+    margin: -90px auto;
+}
+.oo-bg .custom-width:nth-child(1) .cir {
+    margin-left: -33px;
+}
+.oo-bg .custom-width:nth-child(2) .cir {
+   margin-left: -10px;
+}
+.oo-bg .custom-width:nth-child(3) .cir {
+     margin-left: 16px;
+}
+.oo-bg .custom-width:nth-child(4) .cir {
+       margin-left: 40px;
+}
+.oo-bg .custom-width:nth-child(5) .cir {
+       margin-left: 64px;
+}
+.oo-bg .custom-width:nth-child(6) .cir {
+       margin-left: 87px;
+}
+/* .custom-width{
+	    max-width: 24% !important;
+    flex: 0 0 24%;
+} */

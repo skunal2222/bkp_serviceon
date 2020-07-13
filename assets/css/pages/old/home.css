@@ -1,0 +1,104 @@
+body {
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.banner-images{
+	position: relative;
+    margin-top: -20px;
+    width: 100%;
+    z-index: -1;
+}
+.banner-images-mobile {
+	position: relative;
+    margin-top: -20px;
+    width: 100%;
+    z-index: -1;
+}
+.banner-images{
+	display:block;
+}
+.banner-images-mobile {
+	display:none;	
+}
+.itemname {
+	padding:0px 15px;
+}
+a.thumbnail:hover {
+	border-color:#fe7d26;
+}
+
+header {
+    display: block;
+    background: url(../../images/banner/header-image.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    z-index: 110!important;
+}
+header .intro {
+    display: table;
+    width: 100%;
+    height: auto;
+    padding: 17% 0 15%;
+    text-align: center;
+    color: #fff;
+    z-index: 111!important;
+}
+.order_now {
+	position: absolute;
+    top: 150px;
+    text-align: center;
+    width: 100%;
+}
+.order_now_cover {
+	padding: 10px;
+    border-radius: 3px;
+	background:rgba(255,255,255,0.8);
+}
+.item-image {
+	margin: 0;
+    background: #fff;
+    box-shadow: -1px 0px 5px -2px #bdbdbd, 0px -1px 5px -2px #bdbdbd, 2px 0px 5px -2px #bdbdbd;
+}
+.item-image img {
+	width:100%;
+}
+.item-card {
+	margin-bottom:25px;
+}
+.category-name {
+	width: 40%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 25px;
+    margin-left: 35px;
+    font-size:24px;
+    color:#fff;
+}
+.category-container {
+	padding:25px;
+}
+.form-control-custom::-webkit-input-placeholder { color: #777; }
+.form-control-custom:-moz-placeholder { color: #777; }
+.form-control-custom::-moz-placeholder { color: #777; }
+.form-control-custom:-ms-input-placeholder { color: #777; }
+@media (max-width: 768px) {
+	.order_now {
+		top:150px;
+	}
+	.banner-images{
+		display:none;
+	}
+	.banner-images-mobile {
+		display:block;
+	}
+	.order_now {
+		top: 100px;
+		padding: 5px;
+	}
+	.order_now .row {
+		margin:0px;
+	}
+	
+}

@@ -1,0 +1,85 @@
+.thankyou-box{
+	width: 50%;
+	margin: 15% auto;
+	padding: 5%;
+	border-radius: 5px;
+	border: 1px solid #5c5c5c;
+	text-align: center; 
+	color: #000000;
+    font-style: normal;
+    font-stretch: normal;
+}
+.thankyou-box img{
+	margin-bottom: 10%;
+	width: 161px;
+    height: 161px;
+}
+.thankyou-box h1{ 
+  font-size: 45px;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 3.9px;
+}
+.thankyou-box h2{
+  font-weight: 500;  
+  font-size: 30.5px;
+  line-height: 1.5;
+  letter-spacing: 0.2px;
+}
+.thankyou-box p{
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 1.5;
+  letter-spacing: 0.1px;
+}
+@media only screen and (max-width:1400px) and (min-width:1200px){
+
+	.thankyou-box h1{ 
+	  font-size: 45px;
+	}
+	.thankyou-box h2{
+		  font-size: 25px;
+	}
+	.thankyou-box p{
+	  font-size: 20px;
+	}
+}
+@media only screen and (max-width:1200px) and (min-width:768px){
+	.thankyou-box h1{ 
+	  font-size: 25px;
+      letter-spacing: 1.5px;
+	}
+	.thankyou-box h2{
+		font-size: 18px;
+	}
+	.thankyou-box p{
+	  font-size: 16px;
+	}
+	.thankyou-box{
+	width: 80%;
+	}
+	.thankyou-box img{
+	width: 100px;
+    height: 100px;
+	}
+}
+@media only screen and (max-width:767px) and (min-width:100px){
+	.thankyou-box h1{ 
+	  font-size: 20px;
+      letter-spacing: 1.5px;
+	}
+	.thankyou-box h2{
+		  font-size: 16px;
+	}
+	.thankyou-box p{
+	  font-size: 14px;
+	}
+	.thankyou-box{
+	width: 100%;
+	margin: 25% auto;
+	}
+	.thankyou-box img{
+	width: 80px;
+    height: 80px;
+	}
+}

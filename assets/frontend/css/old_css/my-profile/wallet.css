@@ -1,0 +1,82 @@
+.basic-info .spl-btn{
+    width: auto;
+}
+
+.saved-btn {
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.4;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #091525;
+    background: transparent;
+    border: none;
+    width: 173px;
+    height: 72px;
+    margin: 3% 2%;
+    background-image: url(../../images/Home/btn1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.earn-btn{
+
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.4;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #091525;
+    background: transparent;
+    border: none;
+    width: 173px;
+    height: 72px;
+    margin: 3% 0%;
+    background-image: url(../../images/Home/2-btn.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.wallet p{
+    font-size:20px;
+}
+.add-points{
+    color:#ff324a !important;
+}
+.remove-points{
+     color: #632f35  !important;
+}
+.wallet .list {
+    margin-top: 5%;
+    width: 95%;
+    margin: 5% auto 1%;
+}
+.wallet h3 .points{
+   color: #ec3237;
+}
+@media only screen and (max-width:1200px) and (min-width:768px){
+  .saved-btn , .earn-btn{
+    font-size: 14px;
+    width: 127px;
+    height: 58px;
+	}
+}
+@media only screen and (max-width:767px) and (min-width:200px){
+.saved-btn , .earn-btn{
+    font-size: 14px;
+    width: 127px;
+    height: 58px;
+	}
+}
+.basic-info h2{
+  margin-top:0px;
+}  
+.basic-info{
+    padding-bottom: 5%;
+    text-align: center;
+}
+.wallet .img{
+	float:none !important;
+}

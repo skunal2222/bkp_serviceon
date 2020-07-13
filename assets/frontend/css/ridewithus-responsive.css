@@ -1,0 +1,437 @@
+/*galaxy s5*/
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 640px) 
+  and (-webkit-min-device-pixel-ratio: 3){
+
+#ride-with-us{
+	margin-top: 8rem!important;
+}
+
+.ridewithus-lnfo {
+    padding: 4rem 0rem;
+}
+
+.ridewithus-lnfo-content {
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.6;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+.ridewithus-right-img, .ridewithus-left-img{
+  		display: none;
+}
+
+.ride-with-us-section {
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-right: 1.5rem;
+    margin-left: 1.5rem;
+}
+
+#ride-with-us .ride-withus-jumbo {
+    opacity: 0.6;
+    border-radius: 10px;
+    background-image: linear-gradient(to top, #ed3237, #f47634);
+    padding: 2rem 0.5rem;
+}
+
+#ride-with-us .ride-withus-content {
+    font-size: 17px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.27;
+    letter-spacing: 0.55px;
+    color: #000000;
+    padding-top: 0.5rem!important;
+}
+
+#ride-with-us .ride-withus-title {
+    font-size: 26px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.1px;
+    color: #000000;
+}
+
+#ride-with-us .register-btn .btn {
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    width: 50%;
+    min-height: 42px;
+}
+
+.ridewithus-lnfo-title {
+    font-size: 25px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: 0.88px;
+    color: #000000;
+}
+
+.register-section-card {
+    width: 100%;
+    margin: 2rem 0px 5rem 0px;
+}
+
+.register-section .card-body {
+    padding: 1rem 1rem;
+}
+}
+
+/*s5 landscape*/
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 640px) 
+  and (-webkit-min-device-pixel-ratio: 3) 
+  and (orientation: landscape){
+
+    .ridewithus-middle-content {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%!important;
+    max-width: 100%!important;
+}
+}
+
+/*Iphone 5/se*/
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+.ridewithus-right-img, .ridewithus-left-img {
+    display: none;
+}
+
+.ride-with-us-section {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+#ride-with-us .ride-withus-content {
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.27;
+    letter-spacing: 0.55px;
+    color: #000000;
+    padding-top: 0.5rem!important;
+}    
+
+#ride-with-us .ride-withus-title {
+    font-size: 26px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.1px;
+    color: #000000;
+}
+
+#ride-with-us .register-btn .btn {
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    width: 75%;
+    min-height: 42px;
+}
+
+#ride-with-us .register-btn a {
+    color: #fff!important;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 0.55px;
+    color: #ffffff;
+}
+
+#ride-with-us{
+        margin-top: 8rem!important;
+}
+
+
+.ridewithus-lnfo {
+    padding: 0rem 0rem!important;
+}
+
+.register-section-card {
+    width: 100%;
+    margin: 1rem 0px 3rem 0px;
+}
+
+.ridewithus-lnfo-content {
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.6;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+.ridewithus-lnfo-title {
+    font-size: 23px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: 0.88px;
+    color: #000000;
+}
+
+.register-section .card-body {
+    padding: 1rem 1rem;
+}
+
+.register-submit-btn .btn {
+    width: 60%;
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    color: #ffff;
+    margin-top: 1rem;
+}
+
+.register-section-title {
+    font-size: 22px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.75px;
+    text-align: left;
+    color: #000000;
+    padding-bottom: 1.5rem;
+}
+
+}
+
+
+
+
+
+/*Ipad*/
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+	.ride-with-us-section {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 4rem;
+    margin-left: 4rem;
+}  	
+
+.register-section-card {
+    width: 80%;
+    margin: 4rem 0px 6rem 0px;
+}	
+
+
+
+}
+
+
+/*Iphhone 6 7 8*/
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+  	.ridewithus-right-img, .ridewithus-left-img{
+  		display: none;
+}
+
+.ride-with-us-section {
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-right: 1.5rem;
+    margin-left: 1.5rem;
+}
+
+#ride-with-us .ride-withus-jumbo {
+    opacity: 0.6;
+    border-radius: 10px;
+    background-image: linear-gradient(to top, #ed3237, #f47634);
+    padding: 2rem 0.5rem;
+}
+
+#ride-with-us .ride-withus-content {
+    font-size: 17px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.27;
+    letter-spacing: 0.55px;
+    color: #000000;
+    padding-top: 0.5rem!important;
+}
+
+#ride-with-us .ride-withus-title {
+    font-size: 26px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.1px;
+    color: #000000;
+}
+
+#ride-with-us .register-btn .btn {
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    width: 50%;
+    min-height: 42px;
+}
+
+.ridewithus-lnfo-title {
+    font-size: 25px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: 0.88px;
+    color: #000000;
+}
+
+.register-section-card {
+    width: 100%;
+    margin: 2rem 0px 5rem 0px;
+}
+
+.register-section .card-body {
+    padding: 1rem 1rem;
+}
+
+#ride-with-us{
+	margin-top: 8rem!important;
+}
+
+.ridewithus-lnfo-content {
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.6;
+    letter-spacing: 0.55px;
+    text-align: left;
+    color: #000000;
+}
+
+.ridewithus-lnfo {
+    padding: 4rem 1rem;
+}
+	
+}
+
+/*6 7 8 plus landscape*/
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) 
+  and (orientation: landscape){
+
+.ridewithus-lnfo {
+    padding: 4rem 0rem;
+}
+
+.register-section-card {
+    width: 100%;
+    margin: 4rem 0px 6rem 0px;
+}
+
+.ridewithus-right-img {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+
+.ridewithus-left-img{
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+
+.ridewithus-middle-content {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.ride-with-us-section {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+
+#ride-with-us .ride-withus-title {
+    font-size: 25px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.1px;
+    color: #000000;
+}
+
+#ride-with-us .register-btn .btn {
+    background-image: linear-gradient(to top, #ed3237, #f58634);
+    width: 60%;
+    min-height: 42px;
+}
+
+.register-section-card {
+    width: 100%;
+    margin: 0rem 0px 6rem 0px;
+}    
+}
+
+/*Iphone X*/
+@media only screen and (min-device-width: 375px) 
+and (max-device-height: 812px) 
+and (-webkit-device-pixel-ratio: 3) { 
+.ridewithus-lnfo {
+    padding: 4rem 0rem;
+}
+
+.register-section-card {
+    width: 100%;
+    margin: 4rem 0px 6rem 0px;
+}
+}
+
+/*Ipad*/
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+    .ridewithus-lnfo {
+    padding: 2rem 0rem;
+}
+
+.register-section-card {
+    width: 100%;
+    margin: 4rem 0px 6rem 0px;
+}
+
+.register-section-card {
+    width: 100%;
+    margin: 0rem 0px 3rem 0px;
+}
+
+
+
+}

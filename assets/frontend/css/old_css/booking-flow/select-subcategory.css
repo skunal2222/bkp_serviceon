@@ -1,0 +1,44 @@
+.brand p{
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.28;
+  letter-spacing: 1.3px;    
+  margin: 20px 0px;
+  color: #000000;
+}
+.spl-box .col-sm {
+    width: 33% !important;
+    height: 150px !important;;
+}
+.radio input[type=radio], .radio-inline input[type=radio] {
+    margin-left: 0px !important;;;
+}
+.spl-box{
+    height: 185px;
+    margin-top: 5%;
+    overflow: scroll;
+}
+@media only screen and (max-width:1200px) and (min-width:768px){
+	.brand p{
+	  font-size: 16px;
+	}
+}
+@media only screen and (max-width:767px) and (min-width:100px){
+	.brand label img{
+	    width: 50px !important;;
+       height: 50px !important;;
+	 }
+	.brand p{
+	  font-size: 14px;
+    margin: 10px 0px;
+	}
+  .spl-box .col-sm {
+    width: 50% !important;
+  }
+  .spl-box {
+    height: 290px !important;;
+    overflow: hidden !important;;
+}
+}

@@ -1,0 +1,113 @@
+@CHARSET "UTF-8";
+.section6 .input-append {
+     margin: 0% 0%;
+}
+@media screen and (max-width: 768px){
+	.section6 {
+    padding: 3% 0% 8% 0%;
+    width: 100% !important;
+    text-align: -webkit-center;
+}
+	h2{
+	    font-size: 26px;
+	text-align:center !important;
+	}
+	p{
+	    font-size: 16px;
+	text-align:center;
+	}
+	.panel-title>.small, .panel-title>.small>a, .panel-title>a, .panel-title>small, .panel-title>small>a {
+    color: #337ab7;
+    font-size: 16px !important;
+    }
+}
+
+@media screen and (min-width: 768px){
+	.section6 {
+	
+    padding: 3% 0% 8% 0%;
+	
+    width:60%;
+    }
+	
+}
+
+    .section6 .input-append {
+   
+    background: white;
+    border: 1px solid #afadad;
+    
+    }
+   
+    h2 {
+    margin-top: 12%;
+    margin-bottom:30px;
+    font-size: 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: inherit;
+    font-weight: 200;
+    line-height: 1.4;
+    text-align: left;
+    color: inherit;
+}
+p {
+    font-family: Raleway;
+    font-size: 18px;
+    
+    line-height: 29px;
+    }
+    .panel-title>.small, .panel-title>.small>a, .panel-title>a, .panel-title>small, .panel-title>small>a{
+        color: #337ab7;
+            font-size: 19px;
+    text-transform: none;
+    
+    text-decoration: none;
+    }
+  .faq  span{
+    float:right;
+    }
+    .panel > .panel-heading, .panel.panel-default > .panel-heading {
+    background-color: transparent;
+}
+.panel {
+    margin-bottom: 20px;
+    background-color: transparent;
+    border: 0px solid transparent;
+    border-radius: 0px;
+    box-shadow:none;
+    }
+    .panel-default>.panel-heading+.panel-collapse>.panel-body {
+    border-top-color: #ddd;
+    background: white;
+    margin: 1px 12px 12px 12px;
+    border: 1px solid #ddd;
+  
+}
+.panel-body{
+  color: #337ab7;
+    font-size:17px;
+    
+    padding: 10px;
+    border-bottom: 1px solid #ded9d9;
+}
+.panel-body li{
+  color: #337ab7;
+    font-size:17px;
+    
+    padding: 10px;
+    border-bottom: 1px solid #ded9d9;
+}
+.panel > .panel-heading, .panel.panel-default > .panel-heading {
+    background-color: transparent;
+    padding: 12px 0px;
+    border-bottom: 2px solid #d4d0d0;
+}
+.p1{
+padding: 5% 2%;
+}
+b, strong {
+    font-weight: 400;
+    font-size: 18px;
+}
+.

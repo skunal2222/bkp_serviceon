@@ -1,0 +1,219 @@
+.nk-footer-text a p{
+font-weight: 400; 
+ margin: 0px !important; ;
+  padding: 20px 10px !important; ;
+  cursor:pointer;
+}
+.spl{
+	font-weight: inherit;background: #f5f5f7;margin-left: 36px; text-align: left;padding: 10px;font-weight: 500;
+}
+.spl1{
+	margin-left: 21px;padding-top: 20px;
+}
+.btn-cls{
+font-weight: inherit; display: inline-flex;
+}
+.social-nav{
+      display: inline-flex;
+}
+.width100{
+	max-width:100%;
+}
+.mj-b{
+	
+    padding-top: 30px;
+}
+.img-src{
+    position: absolute;
+    left: 0px;
+    top: -125px;
+}
+.code {
+margin-top:20px;
+}
+.code span{
+	font-weight: initial; background: #faba03; ;padding: 10px 20px;
+}
+
+@media only screen and (min-width:768px) {
+ .nk-footer-text #label1{
+	width: 250px;
+}
+.nk-footer-text #label1{
+	width: 140px  !important;;
+}
+.spl-1{
+padding-left:5em;
+}
+.spl-2{
+padding-left:4.4em;
+}
+.spl-3{
+padding-left:4.6em;
+}
+.spl-4{
+padding-left:6.1em;
+}
+.nk-footer-text a p {
+    border: 1px solid #eae9e9;
+ }
+}
+ @media only screen and (max-width:767px) and (min-width:300px){
+ #log123 .foterp{
+  margin-bottom: 10px;
+ }
+ .nk-footer-text a p {
+    border: 1px solid #eae9e9;
+ }
+  .searchbtn1 {
+    width: 200px;
+    margin-bottom: 10px;
+}
+ .spl1{
+	margin-left: -10px !important;
+	padding-top: 20px;
+}
+ .foterp{
+ font-size: 14px !important;
+ }
+ body{
+     background-image: url(../images/img/templatemo_main_bg_bottom_wrapper.jpg);
+    background-position: 0px -65.24px;
+ }
+.label1{
+	width:50%!important;
+}
+ .social-nav{
+    display: inline-block !important;;
+}
+ .code span{
+	font-weight: initial; background: #faba03;;padding: 10px 20px;
+}
+ .col-xs-2{
+    width: 20% !important;
+    padding-left: 5px;
+    padding-right: 5px;
+ }
+  .col-xs-2 .foterp {
+    color: #1b0f41;
+/*     font-size: 11px !important; */
+    }
+ .mj-b{
+	
+    padding-top: 0px  !important;;
+    padding-bottom:30px !important;
+}
+ .img-src{
+ display:none;
+ }
+ .invoice-btn {
+    width: 200px;
+    margin-left: 0px !important;;
+    margin-top:10px;
+ }
+ .btn-cls{
+font-weight: inherit; display: inline-block !important;
+}
+ .spl1{
+	margin-left: -10px !important;
+	padding-top: 20px;
+}
+ .spl{
+	font-weight: inherit;background: #f5f5f7;margin-left: 0px !important; text-align: left;padding: 10px;font-weight: 500;
+}
+.input-group #label1{
+	    text-align: left;
+
+}
+
+.container {
+    width: 100%  !important ;
+}
+.nk-footer-text{
+	margin:0px !important;
+}
+
+ }
+ .input-group #label1{
+	    text-align: left;
+
+}
+
+.fa-pencil {
+	cursor: pointer;
+}
+ .searchbtn1{  
+  width: 200px;
+  background-color: transparent;
+font-family: "Roboto", Helvetica, Arial, sans-serif;
+font-weight: 400;
+color: #0c0c0c;
+padding: 14px;
+display: inline-block;
+white-space: nowrap;
+cursor: pointer;
+border: 2px solid;
+    border-top-color: currentcolor;
+    border-right-color: currentcolor;
+    border-bottom-color: currentcolor;
+    border-left-color: currentcolor;
+border-color: rgb(250, 186, 3);
+  
+  padding: 10px !important;;
+}
+.invoice-btn{
+  width: 200px;
+  margin-left:5px;
+  
+  padding: 10px !important;;
+    background: #faba03;
+    border: 2px solid #faba03;
+    font-size: 15px;
+}
+.nk-footer-text a p{
+   background: #f5f5f7 ;;
+}
+.nk-footer-text a:hover p{
+	background: #fff !important;
+}
+.act{
+	background: #fff !important;
+}
+.nk-footer-text a p span{
+float: right !important; ;
+ margin-right: 20px !important; ;
+  /*! font-size: 12px; */ 
+  background-color: black !important; 
+  color: white !important; ; 
+  padding-left: 9px !important; ; 
+  padding-right: 9px !important; ; 
+  border-radius: 50% !important; ;
+}
+body{
+	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif  !important;;
+}
+p{
+	
+	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif  !important;;
+}
+section{
+	min-height:700px;
+}
+.fa-pencil::before {
+    content: "\f040";
+    color: #938b8b;
+}
+.frmcntrl{
+	border-bottom: 2px solid #938b8b;;
+}
+.order-his-text{
+	text-align: left;
+padding: 4px 10px;
+font-weight: 200;
+}
+ .margin-btn{
+    margin-bottom: 10px;
+}
+.fleft{
+	float:right;
+}

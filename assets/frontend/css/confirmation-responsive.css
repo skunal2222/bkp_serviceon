@@ -1,0 +1,91 @@
+@media (max-width: 320px) {
+
+}
+
+@media (max-width: 768px) {
+
+
+.confirm-title {
+    padding-top: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.28;
+    letter-spacing: 0.94px;
+    text-align: center;
+    color: #000000;
+}
+
+.track-button {
+    width: 160px;
+    height: 46px;
+    text-align: center;
+    align-content: center;
+    background-image: linear-gradient(to top, #ed3237, #ff4b2b);
+    padding-top: 10px;
+}
+
+.track-no {
+    background-image: linear-gradient(to top, #ed3237, #ff4b2b), linear-gradient(to bottom, #000000, #000000);
+    font-family: Roboto;
+    font-size: 27px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.06;
+    letter-spacing: 0.88px;
+    color: #000000;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.submit-btn {
+    font-size: 21px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.23;
+    letter-spacing: 0.75px;
+    color: #ffffff;
+}
+
+.left-side-img {
+    width: 46%;
+    padding-right: 73px;
+}
+
+.right-side-img {
+    width: 19%;
+}
+
+.order-number{
+    font-size: 20px;
+}
+
+}
+
+
+@media (max-width: 543px) {
+
+}
+
+@media (max-width: 1160px) {
+
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+}
+
+@media (max-width: 1330px) {}
+
+
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+}

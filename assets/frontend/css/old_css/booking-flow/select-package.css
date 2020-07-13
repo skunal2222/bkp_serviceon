@@ -1,0 +1,407 @@
+.brand{
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.28;
+  letter-spacing: 1.3px;
+  color: #000000;
+}
+.row-1 input[type=checkbox], input[type=radio] {
+    margin: 10px 4px 0px;
+}
+.select-service{
+    text-align: center;
+    margin-bottom: 5%;
+}
+.ser-btn{
+  border:1px solid #cecece;
+  border-radius: 28px;
+  font-size: 20px;
+  padding: 5px 30px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.28;
+  letter-spacing: 1.3px;
+  text-align: left;
+  color: #000000;
+  background:  #cecece;
+}
+.btn1-spl{ 
+    margin-left: -3px;
+    background: transparent;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.btn2-spl{
+    margin-left: -3px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+@media only screen and (max-width:1200px) and (min-width:768px){
+	.brand{
+	  font-size: 16px;
+	}
+  .ser-btn{
+  font-size: 18px;
+  }
+  .btn2-spl{
+    margin-left: -5px;
+  }
+}
+/* @media only screen and (min-width:768px) {
+	.package{
+	  min-height:620px;
+	  height:620px;
+	}
+} */
+@media only screen and (max-width:767px) and (min-width:100px){
+	.brand{
+	  font-size: 14px;
+	}
+  .ser-btn {
+    font-size: 16px;
+    padding: 5px 20px;
+  }
+   .btn2-spl{
+    margin-left: -5px;
+  }
+  .select-service {
+    margin-top: 5%;
+  }
+}
+.package{
+    border-radius: 8px;
+    box-shadow: 0px 1px 7px 0 rgba(152, 152, 152, 0.35);
+    background-color: #ffffff;
+    padding: 5% 0%;
+    margin: 4% 0%;
+    font-style: normal;
+    font-stretch: normal;
+}
+.package:hover{
+  box-shadow: 0 0 29px 0 rgba(97, 97, 97, 0.35);
+}
+
+.package img{
+  width: 70px;
+  height: 70px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.package p:nth-child(9), .package p:nth-child(10), .package p:nth-child(11), .package p:nth-child(12), .package p:nth-child(13), .package p:nth-child(14), .package p:nth-child(15){
+	display:none;
+}
+.package h3{
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 1.3px;
+  color: #000000;
+}
+.package h4{
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 1.5;
+  letter-spacing: 1.4px;
+  color: #000000;
+}
+.package h5{
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.7px;
+  color: #464646;  
+  background-color: #eaeaea;
+  padding: 10px 0px;
+}
+.package p{
+  font-size: 18px;
+  font-weight: normal;
+  line-height:1.5;
+  letter-spacing: 1.4px;
+  color: #000000;
+}
+.know-more-btn{
+    background-color: transparent;
+    border:none;
+    width: 100%;
+    margin: 20px 0px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height:1.5;
+    letter-spacing: 0.7px;
+    color: #000000;
+}
+
+.brand{
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.28;
+  letter-spacing: 1.3px;
+  color: #000000;
+}
+.row-1 input[type=checkbox], input[type=radio] {
+    margin: 10px 4px 0px;
+}
+
+.select-package h3{
+  font-size: 23.5px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.89;
+  letter-spacing: 1.8px;
+  text-align: center;
+  color: #000000;
+}
+.confirm {
+  margin: 5% 0% 0%;
+}
+.know-more-div h3{
+   font-size: 25px ;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;    
+  margin: 0px 0px 20px;
+  text-align: center ;;
+  color: #000000 !important;;
+}
+.know-more-div p{
+  font-size: 19.5px;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: #000000;
+}
+.know-more-div .custom-btn1{
+   margin:15% 0%;
+}
+.select-modal .spl-btn {
+    padding: 7px 20px !important;
+    margin: 0px 10px !important;;
+    margin-top: -4px !important;
+    }
+@media only screen and (max-width:1200px) and (min-width:768px){
+  .brand{
+    font-size: 16px;
+  }
+  .select-package h3 {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  .package h3 {
+    font-size: 20px;
+  }
+  .package h4 {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .package p {
+    font-size: 15px;
+    margin-bottom: 6px;
+  }
+  .package h5 {
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .know-more-btn {
+    margin: 10px 0px 15px;
+    font-size: 16px;
+  }
+  .package img {
+    margin-bottom: 10px;
+  } 
+  .know-more-div h3 {
+    font-size: 20px;
+  }
+  .know-more-div p {
+    font-size: 16px;
+  }
+}
+@media only screen and (max-width:767px) and (min-width:100px){
+  .brand{
+    font-size: 14px;
+  }
+  .select-package h3 {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  .package h3 {
+    font-size: 19px;
+  }
+  .package h4 {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .package p {
+    font-size: 15px;
+    margin-bottom: 6px;
+  }
+  .package h5 {
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .know-more-btn {
+    margin: 10px 0px 15px;
+    font-size: 16px;
+  }
+  .package img {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    width: 60px;
+    height: auto;
+  }
+  .know-more-div h3 {
+    font-size: 18px;
+  }
+  .know-more-div p {
+    font-size: 14px;
+  }
+  .select-package h3 {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  .select-package h3 br{
+    display: none;
+  }
+ 
+}
+
+.custom-add .selectize-input{
+    border-radius: 29px !important;
+    box-shadow: 0px 0px !important;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: 0.7px;
+    text-align: left;
+    color: #838383;    
+    padding: 5px 12px;
+    border: 1px solid #cecece !important;;;
+    height: 40px;
+    min-height: 40px !important;
+}
+.selectize-dropdown{
+  top:40px !important;;;
+  position: absolute !important;;;;
+  font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: 0.7px;
+    text-align: left;
+    color: #838383;
+}
+.select-modal .spl-btn{
+  margin:0px 10px;    
+  width: 160px;
+  margin-top: -4px;
+}
+button, input, select{
+outline: none;
+}
+
+.selectize-control.single .selectize-input input{
+
+    width: 100% !important;
+}
+.select-modal h1{
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 2.3px;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  text-align: center;
+  margin: 0px;
+  color: #000000;
+}
+.select-modal h2{
+  font-size: 26px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  margin: 0px;
+  letter-spacing: 2px;
+  text-align: center;
+  color: #000000;
+}
+.jumbotron .spl-btn{
+  margin:0px 10px;    
+  width: 160px;
+  margin-top: -4px;
+}
+.select-modal{
+  width: 70%;
+  text-align: center;
+  margin:2% auto;
+}
+.select-modal form{
+  margin: 5%;
+}
+@media only screen and (max-width:1200px) and (min-width:768px){
+  .select-modal{
+    width: 90%;
+    margin:auto;
+  }
+  .select-modal form{
+    margin: 5% 0%;
+  }
+  .select-modal h1 {
+    font-size: 22px;
+    font-weight: 500;
+  }
+  .select-modal h2 {
+    font-size: 18px;
+    margin: 10px 0px;
+  }
+}
+@media only screen and (max-width:767px) and (min-width:100px){
+
+  .jumbotron .input-group{
+    display: inline-block;
+  }
+  .custom-add .selectize-input{
+    cursor: pointer;
+    padding: 7px 20px;
+    font-size: 15px !important;
+  }
+   .select-modal{
+    width: 100%;
+    margin: 5% auto;
+  }
+  .select-modal form{
+    margin: 10% 0% 0%;
+  }
+  .select-modal h1 {
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .select-modal h2 {
+    font-size: 14px;
+    margin: 10px 0px;
+  }
+  .jumbotron .spl-btn {
+    margin: 10px 10px;
+    width: 160px;
+    margin-top: 15px;
+  }
+  .select-modal .input-group{
+      display: inline-block;
+  }
+  .select-modal .spl-btn {
+    margin-top: 10px !important;
+  }
+}

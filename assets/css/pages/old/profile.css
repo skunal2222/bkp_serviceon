@@ -1,0 +1,74 @@
+.side-menu-container ul li {
+	width:100%;
+}
+.side-menu-container ul li a {
+	text-align:left;
+	background-color:#eee !important;
+	padding-left:10px;
+}
+.side-menu-container ul li.on a {
+	text-align:left;
+	background-color:#e7e7e7 !important;
+}
+
+.side-menu-container {
+	padding-right: 0px;
+}
+.side-menu-container .navbar-nav {
+	float:none;
+}
+.side-menu-container {
+	padding-left:5px;
+}
+.card {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.card {
+  margin-top: 10px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  background-clip: padding-box;
+  background:#fff;
+}
+.order-row {
+	padding: 15px;
+    margin: 0;
+    color: #777;
+}
+.field-name {
+	color: #aaa;
+    font-size: 13px;
+}
+
+.field-value {
+	padding-bottom:5px;
+}
+.btn-primary {
+    color: #fff;
+    background-color:#fe7d26;
+    border-color: #f5b285;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color:#e67224;
+    border-color:#fe7d26;
+}
+.glyphicon {
+	color:#fe7d26;
+}
+.fa-money {
+	color:#fe7d26;
+}
+.panel {
+	margin-bottom: 0px;
+}
+.profile-details {
+	padding-left:5px !important;
+	background-color:#fff;
+}
+@media (max-width: 768px) {
+	.side-menu-container {
+		padding-left:15px;
+	}
+}
