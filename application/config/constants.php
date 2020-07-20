@@ -94,19 +94,8 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 define('COMPANY','ServiceOn');
 define('CONTACT','+91 88506 99195');
 define('EMAIL','support@serviceon.co.in');
-//define('EMAIL','brandzgaragedemo@gmail.com');
-//define('EMAIL','it@bikedoctor.in');
 define('HEADING','ServiceOn');
-define('PASS','Hq&6>9hm');
-//define('PASS','Bikedoctor@123');
-define('STORE_CODE_REG','001');
-define('PACKAGE399','001');
-define('PACKAGE999','001');
-define('PACKAGE_ID1','2');
-define('PACKAGE_ID2','9');
 define('LOGO', 'frontend/images/common/Logo.png'); //ServiceOn logo
-define('GOOGLE_MAP_API_KEY', 'AIzaSyBzGgD0y-keJB4yVldbdzcgjcUt36OqEoo'); // FOR SERVICE ON GIVEN BY BALA(NEW).
-define('GOOGLE_API_KEY', 'AAAADMiupMA:APA91bEkj5VIg-_wEZBC55HkrGC-n8u4C9rCUjb72Iz7NSuJCz3x5ju6chOTly8P0RuLYYjAGG5_FR-TOUd81BXH4lw89Euxba87LWyFkBlkunDJMgaZR9tpqnvXDrbcfxIglTWhnEaU'); // Firebase api key FCM notification.
 
 
 
